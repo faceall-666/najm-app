@@ -1,8 +1,10 @@
-Constellation drawings in this folder are modified versions of the illustrations of Stellarium's
+Constellation figures in this folder are modified versions of the illustrations of Stellarium's
 "modern" sky culture (artwork originally by Johan Meuris, Stellarium team):
 https://github.com/stellarium/stellarium/tree/master/skycultures/modern
 
-Modification: redrawn as light line art (outline and inner strokes) and converted to WebP by Najm.
+Modification: each figure was redrawn as an antique star-atlas engraving with Higgsfield (GPT Image 2.5)
+using the original as reference, aligned back onto the original silhouette, and converted to light line
+art (WebP) by Najm.
 
 Licence: Free Art License 1.3 — https://artlibre.org/licence/lal/en/
 You are free to copy, distribute and modify these images under the terms of that licence.
