@@ -1,0 +1,2169 @@
+{
+  "version": 1,
+  "note": "WP-17 narration. textSha256 is of docs/narration/suhail.<lang>.model.txt (trimmed), the exact text sent to ElevenLabs.",
+  "files": [
+    {
+      "id": "suhail",
+      "lang": "ar",
+      "file": "audio/narration/suhail.ar.m4a",
+      "durationS": 83.2,
+      "voice": "Me2026",
+      "model": "eleven_v4",
+      "settings": {
+        "tags": [
+          "[calm]",
+          "[pause]"
+        ],
+        "apiParameters": "model defaults (no stability/similarity/speed set; the connector exposes none for eleven_v4)",
+        "postTempo": 1.0,
+        "textVersion": 2,
+        "take": 1,
+        "generationId": "3iojppNTEsSsTZOB8wZH",
+        "status": "chosen by Faisal (11 Oct): v2 take 1, raw tempo"
+      },
+      "textSha256": "103941314e029ca580efac32772af4e31bb9d0d29b61c09d304866996d286cd7",
+      "generated": "2026-10-11",
+      "lufs": -16.6,
+      "truePeak": -2.0,
+      "encoding": "AAC-LC, mono, 96 kbps, 48 kHz",
+      "previewEndS": 28.02,
+      "free": true
+    },
+    {
+      "id": "suhail",
+      "lang": "en",
+      "file": "audio/narration/suhail.en.m4a",
+      "durationS": 79.2,
+      "voice": "Me2026",
+      "model": "eleven_v4",
+      "settings": {
+        "tags": [
+          "[calm]",
+          "[American accent]",
+          "[pause]"
+        ],
+        "apiParameters": "model defaults (no stability/similarity/speed set; the connector exposes none for eleven_v4)",
+        "postTempo": 1.0,
+        "textVersion": 2,
+        "take": 1,
+        "generationId": "cjSrbcG3s6ytZbDD7zCY",
+        "status": "chosen by Faisal (11 Oct): American take 1, raw tempo",
+        "accent": "American (Faisal, 11 Oct)"
+      },
+      "textSha256": "16800b583bb7c6ced11b9558e54ee6b1c58a9d2d8e99217b35d9b235e5c6440d",
+      "generated": "2026-10-11",
+      "lufs": -16.5,
+      "truePeak": -2.7,
+      "encoding": "AAC-LC, mono, 96 kbps, 48 kHz",
+      "previewEndS": 18.86,
+      "free": true
+    },
+    {
+      "id": "thurayya",
+      "lang": "ar",
+      "file": "audio/narration/thurayya.ar.m4a",
+      "durationS": 72.88,
+      "voice": "Me2026",
+      "model": "eleven_v4",
+      "settings": {
+        "tags": [
+          "[calm]",
+          "[pause]"
+        ],
+        "apiParameters": "model defaults (see SETTINGS.md)",
+        "postTempo": 1.0,
+        "take": 4,
+        "generationId": "Vltzhhz4QpAOsPMlf1Qq",
+        "status": "chosen by transcription check",
+        "takes": [
+          {
+            "take": 1,
+            "generationId": "zCES7S0OTY7FUf1EsXeU",
+            "durationS": 71.84,
+            "lufs": -16.1,
+            "truePeak": -2.6,
+            "sttDifferences": 3,
+            "flags": [
+              "القَيْظ heard as «القيز» (ظ → ز?)"
+            ]
+          },
+          {
+            "take": 2,
+            "generationId": "EoKU6bCONQKymTCOFe7U",
+            "durationS": 71.2,
+            "lufs": -16.8,
+            "truePeak": -4.5,
+            "sttDifferences": 5,
+            "flags": [
+              "القَيْظ heard as «القيز»",
+              "«في ضوء» heard as «لبو» (possible garble)"
+            ]
+          },
+          {
+            "take": 3,
+            "generationId": "98kMdhcp1FcyXFPhkldW",
+            "durationS": 73.04,
+            "lufs": -16.1,
+            "truePeak": -2.7,
+            "sttDifferences": 2,
+            "flags": [],
+            "pass": "fix (director, 11 Oct)"
+          },
+          {
+            "take": 4,
+            "generationId": "Vltzhhz4QpAOsPMlf1Qq",
+            "durationS": 72.88,
+            "lufs": -16.0,
+            "truePeak": -2.6,
+            "sttDifferences": 2,
+            "flags": [],
+            "pass": "fix (director, 11 Oct)"
+          }
+        ],
+        "note": "chosen by the transcription check (fewest real flags, then loudness nearest −16 LUFS); director's rule, 11 Oct 2026; takes 1–2 were made from the earlier text"
+      },
+      "textSha256": "5a15ef5fb9ac2af3fdf9284690cfd0d23b103923a1c8a32608612abc22c5b200",
+      "generated": "2026-10-11",
+      "lufs": -16.0,
+      "truePeak": -2.6,
+      "encoding": "AAC-LC, mono, 96 kbps, 48 kHz",
+      "previewEndS": 16.12,
+      "free": false
+    },
+    {
+      "id": "thurayya",
+      "lang": "en",
+      "file": "audio/narration/thurayya.en.m4a",
+      "durationS": 64.88,
+      "voice": "Me2026",
+      "model": "eleven_v4",
+      "settings": {
+        "tags": [
+          "[calm]",
+          "[American accent]",
+          "[pause]"
+        ],
+        "apiParameters": "model defaults (see SETTINGS.md)",
+        "postTempo": 1.0,
+        "take": 2,
+        "generationId": "0IY8sxN6GnRRMU72I9Df",
+        "status": "chosen by transcription check",
+        "takes": [
+          {
+            "take": 1,
+            "generationId": "WDZjbgb604UPpiufR8Gu",
+            "durationS": 63.76,
+            "lufs": -16.2,
+            "truePeak": -4.4,
+            "sttDifferences": 2,
+            "flags": []
+          },
+          {
+            "take": 2,
+            "generationId": "0IY8sxN6GnRRMU72I9Df",
+            "durationS": 64.88,
+            "lufs": -16.1,
+            "truePeak": -2.2,
+            "sttDifferences": 1,
+            "flags": []
+          }
+        ],
+        "note": "chosen by the transcription check (fewest real flags, then loudness nearest −16 LUFS); director's rule, 11 Oct 2026"
+      },
+      "textSha256": "83148704901ca208ed0c07d709023630b7e7b877b289105fd6219edae5d3a679",
+      "generated": "2026-10-11",
+      "lufs": -16.1,
+      "truePeak": -2.2,
+      "encoding": "AAC-LC, mono, 96 kbps, 48 kHz",
+      "previewEndS": 19.84,
+      "free": false
+    },
+    {
+      "id": "jawza",
+      "lang": "ar",
+      "file": "audio/narration/jawza.ar.m4a",
+      "durationS": 71.2,
+      "voice": "Me2026",
+      "model": "eleven_v4",
+      "settings": {
+        "tags": [
+          "[calm]",
+          "[pause]"
+        ],
+        "apiParameters": "model defaults (see SETTINGS.md)",
+        "postTempo": 1.0,
+        "take": 2,
+        "generationId": "4OTpTSy1SCIlDqceWrYm",
+        "status": "chosen by transcription check",
+        "takes": [
+          {
+            "take": 1,
+            "generationId": "ym1rnCPJPDOopjkFQEfU",
+            "durationS": 68.64,
+            "lufs": -16.0,
+            "truePeak": -2.8,
+            "sttDifferences": 1,
+            "flags": [
+              "الهَقْعَة heard as «الحقعة» (ه → ح?)"
+            ]
+          },
+          {
+            "take": 2,
+            "generationId": "4OTpTSy1SCIlDqceWrYm",
+            "durationS": 71.2,
+            "lufs": -16.1,
+            "truePeak": -2.6,
+            "sttDifferences": 0,
+            "flags": []
+          }
+        ],
+        "note": "chosen by the transcription check (fewest real flags, then loudness nearest −16 LUFS); director's rule, 11 Oct 2026"
+      },
+      "textSha256": "50d4879e442475539584a35d9a0cdf8fec6cea32b10a44adecbc66d1a07248e7",
+      "generated": "2026-10-11",
+      "lufs": -16.1,
+      "truePeak": -2.6,
+      "encoding": "AAC-LC, mono, 96 kbps, 48 kHz",
+      "previewEndS": 20.1,
+      "free": false
+    },
+    {
+      "id": "jawza",
+      "lang": "en",
+      "file": "audio/narration/jawza.en.m4a",
+      "durationS": 58.32,
+      "voice": "Me2026",
+      "model": "eleven_v4",
+      "settings": {
+        "tags": [
+          "[calm]",
+          "[American accent]",
+          "[pause]"
+        ],
+        "apiParameters": "model defaults (see SETTINGS.md)",
+        "postTempo": 1.0,
+        "take": 1,
+        "generationId": "0jcpLnYnW4AvrZbgdfw7",
+        "status": "chosen by transcription check",
+        "takes": [
+          {
+            "take": 1,
+            "generationId": "0jcpLnYnW4AvrZbgdfw7",
+            "durationS": 58.32,
+            "lufs": -16.2,
+            "truePeak": -2.7,
+            "sttDifferences": 2,
+            "flags": [
+              "al-Nizam heard as «an nimam»"
+            ]
+          },
+          {
+            "take": 2,
+            "generationId": "xQDyC1gXSnJeRRj5Vg82",
+            "durationS": 57.12,
+            "lufs": -16.2,
+            "truePeak": -2.7,
+            "sttDifferences": 2,
+            "flags": [
+              "al-Nizam heard as «an niam»"
+            ]
+          }
+        ],
+        "note": "chosen by the transcription check (fewest real flags, then loudness nearest −16 LUFS); director's rule, 11 Oct 2026"
+      },
+      "textSha256": "8131de959bb068efbb2c47f2c53a7fe57b0fc8bcf66a048e5b9a3ce5c3284589",
+      "generated": "2026-10-11",
+      "lufs": -16.2,
+      "truePeak": -2.7,
+      "encoding": "AAC-LC, mono, 96 kbps, 48 kHz",
+      "previewEndS": 19.74,
+      "free": false
+    },
+    {
+      "id": "shira",
+      "lang": "ar",
+      "file": "audio/narration/shira.ar.m4a",
+      "durationS": 69.28,
+      "voice": "Me2026",
+      "model": "eleven_v4",
+      "settings": {
+        "tags": [
+          "[calm]",
+          "[pause]"
+        ],
+        "apiParameters": "model defaults (see SETTINGS.md)",
+        "postTempo": 1.0,
+        "take": 4,
+        "generationId": "HpwdPQxLMnOWmjqr6EGg",
+        "status": "chosen by transcription check",
+        "takes": [
+          {
+            "take": 1,
+            "generationId": "eAseHhRntcvjgQLKegbk",
+            "durationS": 66.32,
+            "lufs": -16.4,
+            "truePeak": -2.5,
+            "sttDifferences": 3,
+            "flags": [
+              "أُخْتَا heard as «أختان»",
+              "غَمِصَتْ heard as «غمضت»"
+            ]
+          },
+          {
+            "take": 2,
+            "generationId": "k3q4u0qRmVh6uu2hnqxd",
+            "durationS": 69.36,
+            "lufs": -16.1,
+            "truePeak": -2.6,
+            "sttDifferences": 4,
+            "flags": [
+              "أُخْتَا heard as «أختن»",
+              "غَمِصَتْ heard as «غمست»",
+              "أَجَنَ heard as «أجني»"
+            ]
+          },
+          {
+            "take": 3,
+            "generationId": "cE4QSS2238KFniHJjfeH",
+            "durationS": 68.16,
+            "lufs": -16.2,
+            "truePeak": -1.8,
+            "sttDifferences": 3,
+            "flags": [
+              "غَمِصَت heard as «غمست» (attempt 1, IPA hint)",
+              "الشِّعْرَيَيْنِ heard as «الشعرين» (dual shortened?)"
+            ],
+            "pass": "fix (director, 11 Oct)"
+          },
+          {
+            "take": 4,
+            "generationId": "HpwdPQxLMnOWmjqr6EGg",
+            "durationS": 69.28,
+            "lufs": -16.1,
+            "truePeak": -2.4,
+            "sttDifferences": 3,
+            "flags": [
+              "غَمِصَت heard as «غمست» (attempt 1, IPA hint)",
+              "الشِّعْرَيَيْنِ heard as «الشعرين» (dual shortened?)"
+            ],
+            "pass": "fix (director, 11 Oct)"
+          },
+          {
+            "take": 5,
+            "generationId": "7ZB7NQkhFXL2FELXaDX6",
+            "durationS": 69.04,
+            "lufs": -16.2,
+            "truePeak": -1.8,
+            "sttDifferences": 3,
+            "flags": [
+              "غَمِصَت heard as «غمست» (attempt 2, syllabified IPA hint)",
+              "الشِّعْرَيَيْنِ heard as «الشعرين» (dual shortened?)"
+            ],
+            "pass": "fix (director, 11 Oct)"
+          },
+          {
+            "take": 6,
+            "generationId": "TbVk9MBOhu8w4LlkNrqe",
+            "durationS": 67.84,
+            "lufs": -16.4,
+            "truePeak": -2.0,
+            "sttDifferences": 3,
+            "flags": [
+              "غَمِصَت heard as «غمست» (attempt 2, syllabified IPA hint)",
+              "الشِّعْرَيَيْنِ heard as «الشعرين» (dual shortened?)"
+            ],
+            "pass": "fix (director, 11 Oct)"
+          }
+        ],
+        "note": "chosen by the transcription check (fewest real flags, then loudness nearest −16 LUFS); director's rule, 11 Oct 2026; takes 1–2 were made from the earlier text"
+      },
+      "textSha256": "323ef11bdd1d56e155b2597d1e6c2113f9c8288c8f31cdd02e78548f9deef178",
+      "generated": "2026-10-11",
+      "lufs": -16.1,
+      "truePeak": -2.4,
+      "encoding": "AAC-LC, mono, 96 kbps, 48 kHz",
+      "previewEndS": 40.62,
+      "free": false
+    },
+    {
+      "id": "shira",
+      "lang": "en",
+      "file": "audio/narration/shira.en.m4a",
+      "durationS": 58.0,
+      "voice": "Me2026",
+      "model": "eleven_v4",
+      "settings": {
+        "tags": [
+          "[calm]",
+          "[American accent]",
+          "[pause]"
+        ],
+        "apiParameters": "model defaults (see SETTINGS.md)",
+        "postTempo": 1.0,
+        "take": 1,
+        "generationId": "UdbpOWBOwc5XwEty2Pq8",
+        "status": "chosen by transcription check",
+        "takes": [
+          {
+            "take": 1,
+            "generationId": "UdbpOWBOwc5XwEty2Pq8",
+            "durationS": 58.0,
+            "lufs": -16.2,
+            "truePeak": -2.5,
+            "sttDifferences": 1,
+            "flags": []
+          },
+          {
+            "take": 2,
+            "generationId": "hBXuhZrDdCYpKQUurKvG",
+            "durationS": 58.48,
+            "lufs": -16.2,
+            "truePeak": -2.6,
+            "sttDifferences": 1,
+            "flags": []
+          }
+        ],
+        "note": "chosen by the transcription check (fewest real flags, then loudness nearest −16 LUFS); director's rule, 11 Oct 2026"
+      },
+      "textSha256": "a1394ef54efd24fb938249acf466ac2d7c1ea8c98352300e548786022a7dd560",
+      "generated": "2026-10-11",
+      "lufs": -16.2,
+      "truePeak": -2.5,
+      "encoding": "AAC-LC, mono, 96 kbps, 48 kHz",
+      "previewEndS": 38.48,
+      "free": false
+    },
+    {
+      "id": "judayy",
+      "lang": "ar",
+      "file": "audio/narration/judayy.ar.m4a",
+      "durationS": 71.2,
+      "voice": "Me2026",
+      "model": "eleven_v4",
+      "settings": {
+        "tags": [
+          "[calm]",
+          "[pause]"
+        ],
+        "apiParameters": "model defaults (see SETTINGS.md)",
+        "postTempo": 1.0,
+        "take": 3,
+        "generationId": "4BbAh26Ft0nZL3iLnG19",
+        "status": "chosen by transcription check",
+        "takes": [
+          {
+            "take": 1,
+            "generationId": "zfNMqp5D2fxdUNvKXS53",
+            "durationS": 69.6,
+            "lufs": -16.0,
+            "truePeak": -2.7,
+            "sttDifferences": 2,
+            "flags": [],
+            "flagNote": "earlier «السهي» flag withdrawn: the transcriber writes «السهى» (alif maqsura), the standard spelling; my comparison normalised ى to ي"
+          },
+          {
+            "take": 2,
+            "generationId": "fFBohH7fJGnfIxdGFKHG",
+            "durationS": 70.48,
+            "lufs": -16.1,
+            "truePeak": -2.7,
+            "sttDifferences": 2,
+            "flags": [],
+            "flagNote": "earlier «السهي» flag withdrawn: the transcriber writes «السهى» (alif maqsura), the standard spelling; my comparison normalised ى to ي"
+          },
+          {
+            "take": 3,
+            "generationId": "4BbAh26Ft0nZL3iLnG19",
+            "durationS": 71.2,
+            "lufs": -16.1,
+            "truePeak": -2.2,
+            "sttDifferences": 2,
+            "flags": [],
+            "pass": "fix (director, 11 Oct)"
+          },
+          {
+            "take": 4,
+            "generationId": "HElRCrVIKgwFd9eElLh0",
+            "durationS": 70.08,
+            "lufs": -16.2,
+            "truePeak": -2.7,
+            "sttDifferences": 2,
+            "flags": [],
+            "pass": "fix (director, 11 Oct)"
+          }
+        ],
+        "note": "chosen by the transcription check (fewest real flags, then loudness nearest −16 LUFS); director's rule, 11 Oct 2026; takes 1–2 were made from the earlier text"
+      },
+      "textSha256": "764bca42055e7ca9c0b521234aa7a3a5697854c94148bc6c596e3646c8b4363c",
+      "generated": "2026-10-11",
+      "lufs": -16.1,
+      "truePeak": -2.2,
+      "encoding": "AAC-LC, mono, 96 kbps, 48 kHz",
+      "previewEndS": 23.14,
+      "free": false
+    },
+    {
+      "id": "judayy",
+      "lang": "en",
+      "file": "audio/narration/judayy.en.m4a",
+      "durationS": 66.24,
+      "voice": "Me2026",
+      "model": "eleven_v4",
+      "settings": {
+        "tags": [
+          "[calm]",
+          "[American accent]",
+          "[pause]"
+        ],
+        "apiParameters": "model defaults (see SETTINGS.md)",
+        "postTempo": 1.0,
+        "take": 2,
+        "generationId": "OQXqYxNiPKwdDDYoT322",
+        "status": "chosen by transcription check",
+        "takes": [
+          {
+            "take": 1,
+            "generationId": "8Kk8YbFowrgATBpFxKia",
+            "durationS": 68.56,
+            "lufs": -16.2,
+            "truePeak": -2.1,
+            "sttDifferences": 6,
+            "flags": []
+          },
+          {
+            "take": 2,
+            "generationId": "OQXqYxNiPKwdDDYoT322",
+            "durationS": 66.24,
+            "lufs": -16.1,
+            "truePeak": -2.7,
+            "sttDifferences": 8,
+            "flags": []
+          }
+        ],
+        "note": "chosen by the transcription check (fewest real flags, then loudness nearest −16 LUFS); director's rule, 11 Oct 2026"
+      },
+      "textSha256": "8f5957027aaa7b113b725dc6bb601abe1bf8f1a6b02e501fc7cbf161bd5e867f",
+      "generated": "2026-10-11",
+      "lufs": -16.1,
+      "truePeak": -2.7,
+      "encoding": "AAC-LC, mono, 96 kbps, 48 kHz",
+      "previewEndS": 24.12,
+      "free": false
+    },
+    {
+      "id": "majarra",
+      "lang": "ar",
+      "file": "audio/narration/majarra.ar.m4a",
+      "durationS": 63.14,
+      "voice": "Me2026",
+      "model": "eleven_v4",
+      "settings": {
+        "tags": [
+          "[calm]",
+          "[pause]"
+        ],
+        "apiParameters": "model defaults (see SETTINGS.md)",
+        "postTempo": 1.0,
+        "take": 1,
+        "generationId": "vKP6zt2DLd2VvGuN1OP0",
+        "status": "chosen by transcription check",
+        "takes": [
+          {
+            "take": 1,
+            "generationId": "vKP6zt2DLd2VvGuN1OP0",
+            "durationS": 63.14,
+            "lufs": -16.1,
+            "truePeak": -2.7,
+            "sttDifferences": 0,
+            "flags": []
+          },
+          {
+            "take": 2,
+            "generationId": "bFs03WqyqyalOgJJHEH5",
+            "durationS": 61.52,
+            "lufs": -16.2,
+            "truePeak": -2.5,
+            "sttDifferences": 0,
+            "flags": []
+          }
+        ],
+        "note": "chosen by the transcription check (fewest real flags, then loudness nearest −16 LUFS); director's rule, 11 Oct 2026"
+      },
+      "textSha256": "6e6aa34e30b0482a2131c309cb07b2ff6786a4aa8d9a474d57ebe57deccc447c",
+      "generated": "2026-10-11",
+      "lufs": -16.1,
+      "truePeak": -2.7,
+      "encoding": "AAC-LC, mono, 96 kbps, 48 kHz",
+      "previewEndS": 35.16,
+      "free": false
+    },
+    {
+      "id": "majarra",
+      "lang": "en",
+      "file": "audio/narration/majarra.en.m4a",
+      "durationS": 53.68,
+      "voice": "Me2026",
+      "model": "eleven_v4",
+      "settings": {
+        "tags": [
+          "[calm]",
+          "[American accent]",
+          "[pause]"
+        ],
+        "apiParameters": "model defaults (see SETTINGS.md)",
+        "postTempo": 1.0,
+        "take": 1,
+        "generationId": "gG7OLQLGhJqrXEEnok3N",
+        "status": "chosen by transcription check",
+        "takes": [
+          {
+            "take": 1,
+            "generationId": "gG7OLQLGhJqrXEEnok3N",
+            "durationS": 53.68,
+            "lufs": -16.1,
+            "truePeak": -3.1,
+            "sttDifferences": 1,
+            "flags": []
+          },
+          {
+            "take": 2,
+            "generationId": "5UX1Fx68cAsAbkmPp0T9",
+            "durationS": 54.88,
+            "lufs": -16.2,
+            "truePeak": -4.1,
+            "sttDifferences": 1,
+            "flags": []
+          }
+        ],
+        "note": "chosen by the transcription check (fewest real flags, then loudness nearest −16 LUFS); director's rule, 11 Oct 2026"
+      },
+      "textSha256": "b009078363aa63e2d069ec9b62fed83ae6ae121da344cb39e8554ac4c00a450c",
+      "generated": "2026-10-11",
+      "lufs": -16.1,
+      "truePeak": -3.1,
+      "encoding": "AAC-LC, mono, 96 kbps, 48 kHz",
+      "previewEndS": 31.02,
+      "free": false
+    },
+    {
+      "id": "sufi-smudge",
+      "lang": "ar",
+      "file": "audio/narration/sufi-smudge.ar.m4a",
+      "durationS": 63.76,
+      "voice": "Me2026",
+      "model": "eleven_v4",
+      "settings": {
+        "tags": [
+          "[calm]",
+          "[pause]"
+        ],
+        "apiParameters": "model defaults (see SETTINGS.md)",
+        "postTempo": 1.0,
+        "take": 1,
+        "generationId": "FEu0dqZy0N4G8twN5qtN",
+        "status": "chosen by transcription check",
+        "takes": [
+          {
+            "take": 1,
+            "generationId": "FEu0dqZy0N4G8twN5qtN",
+            "durationS": 63.76,
+            "lufs": -16.2,
+            "truePeak": -2.4,
+            "sttDifferences": 2,
+            "flags": []
+          },
+          {
+            "take": 2,
+            "generationId": "C0bLCWtH7STBygnY9JUb",
+            "durationS": 64.88,
+            "lufs": -16.2,
+            "truePeak": -2.7,
+            "sttDifferences": 2,
+            "flags": []
+          }
+        ],
+        "note": "chosen by the transcription check (fewest real flags, then loudness nearest −16 LUFS); director's rule, 11 Oct 2026"
+      },
+      "textSha256": "b288402dce098bb1cb2ca122ed4f6cd07cea69812fa4ebc636543501031ae8d2",
+      "generated": "2026-10-11",
+      "lufs": -16.2,
+      "truePeak": -2.4,
+      "encoding": "AAC-LC, mono, 96 kbps, 48 kHz",
+      "previewEndS": 23.32,
+      "free": false
+    },
+    {
+      "id": "sufi-smudge",
+      "lang": "en",
+      "file": "audio/narration/sufi-smudge.en.m4a",
+      "durationS": 58.0,
+      "voice": "Me2026",
+      "model": "eleven_v4",
+      "settings": {
+        "tags": [
+          "[calm]",
+          "[American accent]",
+          "[pause]"
+        ],
+        "apiParameters": "model defaults (see SETTINGS.md)",
+        "postTempo": 1.0,
+        "take": 1,
+        "generationId": "cCG1rO5ZGiWyjDDV7vUa",
+        "status": "chosen by transcription check",
+        "takes": [
+          {
+            "take": 1,
+            "generationId": "cCG1rO5ZGiWyjDDV7vUa",
+            "durationS": 58.0,
+            "lufs": -16.1,
+            "truePeak": -2.5,
+            "sttDifferences": 1,
+            "flags": []
+          },
+          {
+            "take": 2,
+            "generationId": "oN5lbGljUdH19z021qJP",
+            "durationS": 56.72,
+            "lufs": -16.1,
+            "truePeak": -2.7,
+            "sttDifferences": 1,
+            "flags": []
+          }
+        ],
+        "note": "chosen by the transcription check (fewest real flags, then loudness nearest −16 LUFS); director's rule, 11 Oct 2026"
+      },
+      "textSha256": "43440ef92e45e8e9881520191f15f782e72008d319c424e3146cbca6fb6b0070",
+      "generated": "2026-10-11",
+      "lufs": -16.1,
+      "truePeak": -2.5,
+      "encoding": "AAC-LC, mono, 96 kbps, 48 kHz",
+      "previewEndS": 21.98,
+      "free": false
+    },
+    {
+      "id": "moon",
+      "lang": "ar",
+      "file": "audio/narration/moon.ar.m4a",
+      "durationS": 65.92,
+      "voice": "Me2026",
+      "model": "eleven_v4",
+      "settings": {
+        "tags": [
+          "[calm]",
+          "[pause]"
+        ],
+        "apiParameters": "model defaults (see SETTINGS.md)",
+        "postTempo": 1.0,
+        "take": 3,
+        "generationId": "Ix0mK6XmELd6l2lcGwNX",
+        "status": "chosen by transcription check",
+        "takes": [
+          {
+            "take": 1,
+            "generationId": "4t4xPHsfHDbd4FRt7ovI",
+            "durationS": 70.16,
+            "lufs": -16.1,
+            "truePeak": -4.0,
+            "sttDifferences": 2,
+            "flags": [
+              "الشَّرَطَان heard with ت for ط"
+            ]
+          },
+          {
+            "take": 2,
+            "generationId": "9ASJBlCoReZyEVOg05g6",
+            "durationS": 66.56,
+            "lufs": -16.1,
+            "truePeak": -2.7,
+            "sttDifferences": 2,
+            "flags": [
+              "الشَّرَطَان heard as «الشرتان» (ط → ت?)"
+            ]
+          },
+          {
+            "take": 3,
+            "generationId": "Ix0mK6XmELd6l2lcGwNX",
+            "durationS": 65.92,
+            "lufs": -16.2,
+            "truePeak": -2.8,
+            "sttDifferences": 3,
+            "flags": [],
+            "pass": "fix (director, 11 Oct)"
+          },
+          {
+            "take": 4,
+            "generationId": "PiC0b2qRAtXrxPG0abF7",
+            "durationS": 67.68,
+            "lufs": -16.0,
+            "truePeak": -2.6,
+            "sttDifferences": 3,
+            "flags": [
+              "الشَّرَطَان heard as «أشراطان» (long ā added?)"
+            ],
+            "pass": "fix (director, 11 Oct)"
+          }
+        ],
+        "note": "chosen by the transcription check (fewest real flags, then loudness nearest −16 LUFS); director's rule, 11 Oct 2026; takes 1–2 were made from the earlier text"
+      },
+      "textSha256": "35c9f8d7f1fd28aa44d5bec213b571532789d283c483c0fbbf319bea3c309eff",
+      "generated": "2026-10-11",
+      "lufs": -16.2,
+      "truePeak": -2.8,
+      "encoding": "AAC-LC, mono, 96 kbps, 48 kHz",
+      "previewEndS": 30.32,
+      "free": false
+    },
+    {
+      "id": "moon",
+      "lang": "en",
+      "file": "audio/narration/moon.en.m4a",
+      "durationS": 54.64,
+      "voice": "Me2026",
+      "model": "eleven_v4",
+      "settings": {
+        "tags": [
+          "[calm]",
+          "[American accent]",
+          "[pause]"
+        ],
+        "apiParameters": "model defaults (see SETTINGS.md)",
+        "postTempo": 1.0,
+        "take": 1,
+        "generationId": "4TJJcl3Zb1gVYo0LeowK",
+        "status": "chosen by transcription check",
+        "takes": [
+          {
+            "take": 1,
+            "generationId": "4TJJcl3Zb1gVYo0LeowK",
+            "durationS": 54.64,
+            "lufs": -16.1,
+            "truePeak": -2.8,
+            "sttDifferences": 2,
+            "flags": []
+          },
+          {
+            "take": 2,
+            "generationId": "GgSGsXSkcjJlGqD6ffvy",
+            "durationS": 52.93,
+            "lufs": -16.1,
+            "truePeak": -2.6,
+            "sttDifferences": 3,
+            "flags": []
+          }
+        ],
+        "note": "chosen by the transcription check (fewest real flags, then loudness nearest −16 LUFS); director's rule, 11 Oct 2026"
+      },
+      "textSha256": "bce2527a2c5f4832cf786aae6073bd455496ebd3c537e729b094ebe1bfe1a8d4",
+      "generated": "2026-10-11",
+      "lufs": -16.1,
+      "truePeak": -2.8,
+      "encoding": "AAC-LC, mono, 96 kbps, 48 kHz",
+      "previewEndS": 22.36,
+      "free": false
+    },
+    {
+      "id": "sun",
+      "lang": "ar",
+      "file": "audio/narration/sun.ar.m4a",
+      "durationS": 77.84,
+      "voice": "Me2026",
+      "model": "eleven_v4",
+      "settings": {
+        "tags": [
+          "[calm]",
+          "[pause]"
+        ],
+        "apiParameters": "model defaults (see SETTINGS.md)",
+        "postTempo": 1.0,
+        "take": 1,
+        "generationId": "3p7EGIc7ikSg4UlPTiwO",
+        "status": "chosen by transcription check",
+        "takes": [
+          {
+            "take": 1,
+            "generationId": "3p7EGIc7ikSg4UlPTiwO",
+            "durationS": 77.84,
+            "lufs": -16.0,
+            "truePeak": -2.7,
+            "sttDifferences": 10,
+            "flags": []
+          },
+          {
+            "take": 2,
+            "generationId": "5jpxmkDzjWFkNBQgSKNa",
+            "durationS": 76.48,
+            "lufs": -16.1,
+            "truePeak": -2.0,
+            "sttDifferences": 10,
+            "flags": []
+          }
+        ],
+        "note": "chosen by the transcription check (fewest real flags, then loudness nearest −16 LUFS); director's rule, 11 Oct 2026"
+      },
+      "textSha256": "cc516d33d8a4b8bbb98d2d2be6518e33cadcfe3ed9fe6b0f5eb6ac9fb5fb6115",
+      "generated": "2026-10-11",
+      "lufs": -16.0,
+      "truePeak": -2.7,
+      "encoding": "AAC-LC, mono, 96 kbps, 48 kHz",
+      "previewEndS": 19.28,
+      "free": false
+    },
+    {
+      "id": "sun",
+      "lang": "en",
+      "file": "audio/narration/sun.en.m4a",
+      "durationS": 63.76,
+      "voice": "Me2026",
+      "model": "eleven_v4",
+      "settings": {
+        "tags": [
+          "[calm]",
+          "[American accent]",
+          "[pause]"
+        ],
+        "apiParameters": "model defaults (see SETTINGS.md)",
+        "postTempo": 1.0,
+        "take": 1,
+        "generationId": "o3OM3YTV1amXb4yqzhcp",
+        "status": "chosen by transcription check",
+        "takes": [
+          {
+            "take": 1,
+            "generationId": "o3OM3YTV1amXb4yqzhcp",
+            "durationS": 63.76,
+            "lufs": -16.1,
+            "truePeak": -2.8,
+            "sttDifferences": 1,
+            "flags": []
+          },
+          {
+            "take": 2,
+            "generationId": "m90qJQ7v4cVKdVfcYfll",
+            "durationS": 65.36,
+            "lufs": -16.1,
+            "truePeak": -2.7,
+            "sttDifferences": 1,
+            "flags": []
+          }
+        ],
+        "note": "chosen by the transcription check (fewest real flags, then loudness nearest −16 LUFS); director's rule, 11 Oct 2026"
+      },
+      "textSha256": "0f2f7d5f22e55e3b3396a7cdfc700ed0aebc477160501c6db48fc3e2cb8d4d00",
+      "generated": "2026-10-11",
+      "lufs": -16.1,
+      "truePeak": -2.8,
+      "encoding": "AAC-LC, mono, 96 kbps, 48 kHz",
+      "previewEndS": 15.74,
+      "free": false
+    },
+    {
+      "id": "moon-phases",
+      "lang": "ar",
+      "file": "audio/narration/moon-phases.ar.m4a",
+      "durationS": 80.96,
+      "voice": "Me2026",
+      "model": "eleven_v4",
+      "settings": {
+        "tags": [
+          "[calm]",
+          "[pause]"
+        ],
+        "apiParameters": "model defaults (see SETTINGS.md)",
+        "postTempo": 1.0,
+        "take": 4,
+        "generationId": "DxCOlbpqNxi8viREy2RQ",
+        "status": "chosen by transcription check",
+        "takes": [
+          {
+            "take": 1,
+            "generationId": "vhn270Kb2JvgZvNgjYx5",
+            "durationS": 78.24,
+            "lufs": -16.0,
+            "truePeak": -2.1,
+            "sttDifferences": 2,
+            "flags": [
+              "لِرَاصِدِي heard as singular «لراصد»",
+              "يُرِينَا heard as «يرين» (final ā dropped?)"
+            ]
+          },
+          {
+            "take": 2,
+            "generationId": "g8KB7u7rjGqYqr5BK2ot",
+            "durationS": 78.8,
+            "lufs": -16.2,
+            "truePeak": -2.7,
+            "sttDifferences": 1,
+            "flags": [
+              "لِرَاصِدِي heard as singular «لراصد»"
+            ]
+          },
+          {
+            "take": 3,
+            "generationId": "EJ8dhNxu0u5C9CadXi3Z",
+            "durationS": 76.4,
+            "lufs": -16.2,
+            "truePeak": -2.6,
+            "sttDifferences": 1,
+            "flags": [
+              "يُرِينَا heard as «يرين»"
+            ],
+            "pass": "fix (director, 11 Oct)"
+          },
+          {
+            "take": 4,
+            "generationId": "DxCOlbpqNxi8viREy2RQ",
+            "durationS": 80.96,
+            "lufs": -16.2,
+            "truePeak": -2.2,
+            "sttDifferences": 0,
+            "flags": [],
+            "pass": "fix (director, 11 Oct)"
+          }
+        ],
+        "note": "chosen by the transcription check (fewest real flags, then loudness nearest −16 LUFS); director's rule, 11 Oct 2026; takes 1–2 were made from the earlier text"
+      },
+      "textSha256": "7c5689d0253dd5c10032ac04f8bb8658fbbbea320d39fb2c7e5ea940d46e0c73",
+      "generated": "2026-10-11",
+      "lufs": -16.2,
+      "truePeak": -2.2,
+      "encoding": "AAC-LC, mono, 96 kbps, 48 kHz",
+      "previewEndS": 27,
+      "free": true
+    },
+    {
+      "id": "moon-phases",
+      "lang": "en",
+      "file": "audio/narration/moon-phases.en.m4a",
+      "durationS": 66.16,
+      "voice": "Me2026",
+      "model": "eleven_v4",
+      "settings": {
+        "tags": [
+          "[calm]",
+          "[American accent]",
+          "[pause]"
+        ],
+        "apiParameters": "model defaults (see SETTINGS.md)",
+        "postTempo": 1.0,
+        "take": 2,
+        "generationId": "neYp2Qn9NLFLkqXN6x3w",
+        "status": "chosen by transcription check",
+        "takes": [
+          {
+            "take": 1,
+            "generationId": "kgBGMlao4zQLnJTcSWqD",
+            "durationS": 70.64,
+            "lufs": -16.1,
+            "truePeak": -3.0,
+            "sttDifferences": 2,
+            "flags": [
+              "Najm heard as «Nejme» — check for an added final vowel"
+            ]
+          },
+          {
+            "take": 2,
+            "generationId": "neYp2Qn9NLFLkqXN6x3w",
+            "durationS": 66.16,
+            "lufs": -16.1,
+            "truePeak": -2.2,
+            "sttDifferences": 2,
+            "flags": []
+          }
+        ],
+        "note": "chosen by the transcription check (fewest real flags, then loudness nearest −16 LUFS); director's rule, 11 Oct 2026"
+      },
+      "textSha256": "ce7afa05689d67bd9767c1df30e70b663f684cf985866e230fbb8fd66ef3b968",
+      "generated": "2026-10-11",
+      "lufs": -16.1,
+      "truePeak": -2.2,
+      "encoding": "AAC-LC, mono, 96 kbps, 48 kHz",
+      "previewEndS": 23.02,
+      "free": true
+    },
+    {
+      "id": "mercury",
+      "lang": "ar",
+      "file": "audio/narration/mercury.ar.m4a",
+      "durationS": 68.96,
+      "voice": "Me2026",
+      "model": "eleven_v4",
+      "settings": {
+        "tags": [
+          "[calm]",
+          "[pause]"
+        ],
+        "apiParameters": "model defaults (see SETTINGS.md)",
+        "postTempo": 1.0,
+        "take": 3,
+        "generationId": "miorRgzIeELxU4mqYsaW",
+        "status": "chosen by transcription check",
+        "takes": [
+          {
+            "take": 1,
+            "generationId": "cbAV3SRyNHq2gELkxLbc",
+            "durationS": 68.16,
+            "lufs": -16.2,
+            "truePeak": -2.6,
+            "sttDifferences": 4,
+            "flags": [
+              "زارته heard as «زرته» (long ā shortened?)"
+            ]
+          },
+          {
+            "take": 2,
+            "generationId": "FN9mGyDXZch2nB4IJ12r",
+            "durationS": 69.52,
+            "lufs": -16.2,
+            "truePeak": -2.8,
+            "sttDifferences": 6,
+            "flags": [
+              "زارته heard as «زرته» (long ā shortened?)"
+            ]
+          },
+          {
+            "take": 3,
+            "generationId": "miorRgzIeELxU4mqYsaW",
+            "durationS": 68.96,
+            "lufs": -16.1,
+            "truePeak": -1.9,
+            "sttDifferences": 5,
+            "flags": [],
+            "pass": "fix (director, 11 Oct)"
+          },
+          {
+            "take": 4,
+            "generationId": "Xzin2oYeZErJBhP746If",
+            "durationS": 69.04,
+            "lufs": -16.1,
+            "truePeak": -2.6,
+            "sttDifferences": 3,
+            "flags": [],
+            "pass": "fix (director, 11 Oct)"
+          }
+        ],
+        "note": "chosen by the transcription check (fewest real flags, then loudness nearest −16 LUFS); director's rule, 11 Oct 2026; takes 1–2 were made from the earlier text"
+      },
+      "textSha256": "042c4c6b19032b4ae290a167ff3b8ca1407ad2eca57ac967c2d5f214f4e50472",
+      "generated": "2026-10-11",
+      "lufs": -16.1,
+      "truePeak": -1.9,
+      "encoding": "AAC-LC, mono, 96 kbps, 48 kHz",
+      "previewEndS": 20.68,
+      "free": false
+    },
+    {
+      "id": "mercury",
+      "lang": "en",
+      "file": "audio/narration/mercury.en.m4a",
+      "durationS": 56.72,
+      "voice": "Me2026",
+      "model": "eleven_v4",
+      "settings": {
+        "tags": [
+          "[calm]",
+          "[American accent]",
+          "[pause]"
+        ],
+        "apiParameters": "model defaults (see SETTINGS.md)",
+        "postTempo": 1.0,
+        "take": 1,
+        "generationId": "0X4xpVmbjinlXWLjqRf9",
+        "status": "chosen by transcription check",
+        "takes": [
+          {
+            "take": 1,
+            "generationId": "0X4xpVmbjinlXWLjqRf9",
+            "durationS": 56.72,
+            "lufs": -16.0,
+            "truePeak": -2.7,
+            "sttDifferences": 1,
+            "flags": []
+          },
+          {
+            "take": 2,
+            "generationId": "g2FE1CRwFUtZFQtCwZUZ",
+            "durationS": 58.08,
+            "lufs": -16.1,
+            "truePeak": -2.7,
+            "sttDifferences": 1,
+            "flags": []
+          }
+        ],
+        "note": "chosen by the transcription check (fewest real flags, then loudness nearest −16 LUFS); director's rule, 11 Oct 2026"
+      },
+      "textSha256": "1de4cdecffa1d3c6fcef94b204eef550c82ee3960876fd4050aaf7c20639ed36",
+      "generated": "2026-10-11",
+      "lufs": -16.0,
+      "truePeak": -2.7,
+      "encoding": "AAC-LC, mono, 96 kbps, 48 kHz",
+      "previewEndS": 18.84,
+      "free": false
+    },
+    {
+      "id": "venus",
+      "lang": "ar",
+      "file": "audio/narration/venus.ar.m4a",
+      "durationS": 75.36,
+      "voice": "Me2026",
+      "model": "eleven_v4",
+      "settings": {
+        "tags": [
+          "[calm]",
+          "[pause]"
+        ],
+        "apiParameters": "model defaults (see SETTINGS.md)",
+        "postTempo": 1.0,
+        "take": 1,
+        "generationId": "2TO7rDJEhGZkonFY4Yt9",
+        "status": "chosen by transcription check",
+        "takes": [
+          {
+            "take": 1,
+            "generationId": "2TO7rDJEhGZkonFY4Yt9",
+            "durationS": 75.36,
+            "lufs": -16.0,
+            "truePeak": -2.7,
+            "sttDifferences": 2,
+            "flags": []
+          },
+          {
+            "take": 2,
+            "generationId": "t6QCux5KJiAk7XKyq9D4",
+            "durationS": 76.32,
+            "lufs": -16.2,
+            "truePeak": -3.5,
+            "sttDifferences": 2,
+            "flags": [
+              "مِقْرَاب heard as «مكاب»"
+            ]
+          }
+        ],
+        "note": "chosen by the transcription check (fewest real flags, then loudness nearest −16 LUFS); director's rule, 11 Oct 2026"
+      },
+      "textSha256": "fe6488f769fac5391234f6aac5d252f35537dd78e9fe884ba63e7d4940ca7eef",
+      "generated": "2026-10-11",
+      "lufs": -16.0,
+      "truePeak": -2.7,
+      "encoding": "AAC-LC, mono, 96 kbps, 48 kHz",
+      "previewEndS": 19.18,
+      "free": false
+    },
+    {
+      "id": "venus",
+      "lang": "en",
+      "file": "audio/narration/venus.en.m4a",
+      "durationS": 68.48,
+      "voice": "Me2026",
+      "model": "eleven_v4",
+      "settings": {
+        "tags": [
+          "[calm]",
+          "[American accent]",
+          "[pause]"
+        ],
+        "apiParameters": "model defaults (see SETTINGS.md)",
+        "postTempo": 1.0,
+        "take": 1,
+        "generationId": "NweF7zVXWuEhUrPXbjjR",
+        "status": "chosen by transcription check",
+        "takes": [
+          {
+            "take": 1,
+            "generationId": "NweF7zVXWuEhUrPXbjjR",
+            "durationS": 68.48,
+            "lufs": -16.1,
+            "truePeak": -2.7,
+            "sttDifferences": 2,
+            "flags": []
+          },
+          {
+            "take": 2,
+            "generationId": "Ue4g9fIgjYX35JO3YMYI",
+            "durationS": 69.68,
+            "lufs": -16.1,
+            "truePeak": -2.7,
+            "sttDifferences": 3,
+            "flags": [
+              "\"under clouds\" heard as \"and the clouds\""
+            ]
+          }
+        ],
+        "note": "chosen by the transcription check (fewest real flags, then loudness nearest −16 LUFS); director's rule, 11 Oct 2026"
+      },
+      "textSha256": "dd9ff159e4cf00d3e46a06cd313d6ef2055fdcbad63a9a815ec9f38f070f395a",
+      "generated": "2026-10-11",
+      "lufs": -16.1,
+      "truePeak": -2.7,
+      "encoding": "AAC-LC, mono, 96 kbps, 48 kHz",
+      "previewEndS": 21.5,
+      "free": false
+    },
+    {
+      "id": "mars",
+      "lang": "ar",
+      "file": "audio/narration/mars.ar.m4a",
+      "durationS": 82.4,
+      "voice": "Me2026",
+      "model": "eleven_v4",
+      "settings": {
+        "tags": [
+          "[calm]",
+          "[pause]"
+        ],
+        "apiParameters": "model defaults (see SETTINGS.md)",
+        "postTempo": 1.0,
+        "take": 2,
+        "generationId": "2MMBKIEQKJooGIb93wVq",
+        "status": "chosen by transcription check",
+        "takes": [
+          {
+            "take": 1,
+            "generationId": "9WtHaykLEzUERt1VRQ0I",
+            "durationS": 78.24,
+            "lufs": -16.1,
+            "truePeak": -3.5,
+            "sttDifferences": 6,
+            "flags": [
+              "وَهَوَاؤُهُ heard as «وهواه» (hamza dropped?)"
+            ]
+          },
+          {
+            "take": 2,
+            "generationId": "2MMBKIEQKJooGIb93wVq",
+            "durationS": 82.4,
+            "lufs": -16.0,
+            "truePeak": -2.7,
+            "sttDifferences": 5,
+            "flags": []
+          }
+        ],
+        "note": "chosen by the transcription check (fewest real flags, then loudness nearest −16 LUFS); director's rule, 11 Oct 2026"
+      },
+      "textSha256": "2c0738d9226b629fb818e6748aaaeeb290779edef43c0d52cbac7a9962a257b0",
+      "generated": "2026-10-11",
+      "lufs": -16.0,
+      "truePeak": -2.7,
+      "encoding": "AAC-LC, mono, 96 kbps, 48 kHz",
+      "previewEndS": 19.76,
+      "free": false
+    },
+    {
+      "id": "mars",
+      "lang": "en",
+      "file": "audio/narration/mars.en.m4a",
+      "durationS": 69.58,
+      "voice": "Me2026",
+      "model": "eleven_v4",
+      "settings": {
+        "tags": [
+          "[calm]",
+          "[American accent]",
+          "[pause]"
+        ],
+        "apiParameters": "model defaults (see SETTINGS.md)",
+        "postTempo": 1.0,
+        "take": 1,
+        "generationId": "wPWMKCtSI9fv1ZOhgyeW",
+        "status": "chosen by transcription check",
+        "takes": [
+          {
+            "take": 1,
+            "generationId": "wPWMKCtSI9fv1ZOhgyeW",
+            "durationS": 69.58,
+            "lufs": -16.1,
+            "truePeak": -2.4,
+            "sttDifferences": 1,
+            "flags": []
+          },
+          {
+            "take": 2,
+            "generationId": "yueDe6P4pzgNZTCDYe1P",
+            "durationS": 67.52,
+            "lufs": -16.1,
+            "truePeak": -3.5,
+            "sttDifferences": 1,
+            "flags": []
+          }
+        ],
+        "note": "chosen by the transcription check (fewest real flags, then loudness nearest −16 LUFS); director's rule, 11 Oct 2026"
+      },
+      "textSha256": "c249592c1c05529489d9a823cc5d73293b5cd4ec43835184ad514adc14a949b9",
+      "generated": "2026-10-11",
+      "lufs": -16.1,
+      "truePeak": -2.4,
+      "encoding": "AAC-LC, mono, 96 kbps, 48 kHz",
+      "previewEndS": 15.86,
+      "free": false
+    },
+    {
+      "id": "jupiter",
+      "lang": "ar",
+      "file": "audio/narration/jupiter.ar.m4a",
+      "durationS": 77.44,
+      "voice": "Me2026",
+      "model": "eleven_v4",
+      "settings": {
+        "tags": [
+          "[calm]",
+          "[pause]"
+        ],
+        "apiParameters": "model defaults (see SETTINGS.md)",
+        "postTempo": 1.0,
+        "take": 5,
+        "generationId": "SiO8GoGVF7Vs1FrEhWF8",
+        "status": "chosen by transcription check",
+        "takes": [
+          {
+            "take": 1,
+            "generationId": "Bwz0kMDaMieZlCDsnQAv",
+            "durationS": 71.52,
+            "lufs": -16.2,
+            "truePeak": -2.8,
+            "sttDifferences": 11,
+            "flags": [
+              "مِقْرَاب heard as «مقرب» (long ā shortened?), both times"
+            ]
+          },
+          {
+            "take": 2,
+            "generationId": "ZVTwK4aj5MjNiJfuhbhX",
+            "durationS": 73.28,
+            "lufs": -16.1,
+            "truePeak": -3.4,
+            "sttDifferences": 12,
+            "flags": [
+              "مِقْرَاب heard as «مقرب» (long ā shortened?), both times"
+            ]
+          },
+          {
+            "take": 3,
+            "generationId": "2DuFdglb31tbM1Ki5IjC",
+            "durationS": 71.04,
+            "lufs": -16.7,
+            "truePeak": -6.1,
+            "sttDifferences": 11,
+            "flags": [
+              "مدارَه heard as «مدار» (-hu dropped)"
+            ],
+            "pass": "fix (director, 11 Oct)"
+          },
+          {
+            "take": 4,
+            "generationId": "7t93OHwk8jlLMTNQ9W7h",
+            "durationS": 73.2,
+            "lufs": -16.2,
+            "truePeak": -5.3,
+            "sttDifferences": 11,
+            "flags": [
+              "مدارَه heard as «مدار» (-hu dropped)"
+            ],
+            "pass": "fix (director, 11 Oct)"
+          },
+          {
+            "take": 5,
+            "generationId": "SiO8GoGVF7Vs1FrEhWF8",
+            "durationS": 77.44,
+            "lufs": -16.2,
+            "truePeak": -2.8,
+            "sttDifferences": 10,
+            "flags": [],
+            "pass": "fix (director, 11 Oct)"
+          },
+          {
+            "take": 6,
+            "generationId": "y5NiSY0uxqam1IjDpMRn",
+            "durationS": 77.04,
+            "lufs": -16.3,
+            "truePeak": -1.8,
+            "sttDifferences": 11,
+            "flags": [],
+            "pass": "fix (director, 11 Oct)"
+          }
+        ],
+        "note": "chosen by the transcription check (fewest real flags, then loudness nearest −16 LUFS); director's rule, 11 Oct 2026; takes 1–2 were made from the earlier text"
+      },
+      "textSha256": "f1de42012618ec393a68ef9f17b544ef9cef4ae72aecae938ac7a4e93359b515",
+      "generated": "2026-10-11",
+      "lufs": -16.2,
+      "truePeak": -2.8,
+      "encoding": "AAC-LC, mono, 96 kbps, 48 kHz",
+      "previewEndS": 24.98,
+      "free": true
+    },
+    {
+      "id": "jupiter",
+      "lang": "en",
+      "file": "audio/narration/jupiter.en.m4a",
+      "durationS": 62.08,
+      "voice": "Me2026",
+      "model": "eleven_v4",
+      "settings": {
+        "tags": [
+          "[calm]",
+          "[American accent]",
+          "[pause]"
+        ],
+        "apiParameters": "model defaults (see SETTINGS.md)",
+        "postTempo": 1.0,
+        "take": 2,
+        "generationId": "Ie6HrN4wZVO50qiJYKEv",
+        "status": "chosen by transcription check",
+        "takes": [
+          {
+            "take": 1,
+            "generationId": "d5NX8aiyeV6MbCRw1TW7",
+            "durationS": 60.88,
+            "lufs": -16.1,
+            "truePeak": -2.5,
+            "sttDifferences": 5,
+            "flags": []
+          },
+          {
+            "take": 2,
+            "generationId": "Ie6HrN4wZVO50qiJYKEv",
+            "durationS": 62.08,
+            "lufs": -16.0,
+            "truePeak": -2.7,
+            "sttDifferences": 5,
+            "flags": []
+          }
+        ],
+        "note": "chosen by the transcription check (fewest real flags, then loudness nearest −16 LUFS); director's rule, 11 Oct 2026"
+      },
+      "textSha256": "d2142120fa1b0f350c2bcfb9240a3b28a72a35149322fd191964cfb7b97ef81d",
+      "generated": "2026-10-11",
+      "lufs": -16.0,
+      "truePeak": -2.7,
+      "encoding": "AAC-LC, mono, 96 kbps, 48 kHz",
+      "previewEndS": 17.52,
+      "free": true
+    },
+    {
+      "id": "saturn",
+      "lang": "ar",
+      "file": "audio/narration/saturn.ar.m4a",
+      "durationS": 79.92,
+      "voice": "Me2026",
+      "model": "eleven_v4",
+      "settings": {
+        "tags": [
+          "[calm]",
+          "[pause]"
+        ],
+        "apiParameters": "model defaults (see SETTINGS.md)",
+        "postTempo": 1.0,
+        "take": 1,
+        "generationId": "1okwQ2zWkYjEyIZgzmQ5",
+        "status": "chosen by transcription check",
+        "takes": [
+          {
+            "take": 1,
+            "generationId": "1okwQ2zWkYjEyIZgzmQ5",
+            "durationS": 79.92,
+            "lufs": -16.0,
+            "truePeak": -2.6,
+            "sttDifferences": 11,
+            "flags": []
+          },
+          {
+            "take": 2,
+            "generationId": "08voaEL1iasJBneFobx3",
+            "durationS": 80.4,
+            "lufs": -16.1,
+            "truePeak": -2.6,
+            "sttDifferences": 12,
+            "flags": [
+              "أقماره heard as «أقمارها»"
+            ]
+          }
+        ],
+        "note": "chosen by the transcription check (fewest real flags, then loudness nearest −16 LUFS); director's rule, 11 Oct 2026"
+      },
+      "textSha256": "06abbee705dff353541f9d98f0fe0dc9478e79f6f6502deeebe4fbcecd08e907",
+      "generated": "2026-10-11",
+      "lufs": -16.0,
+      "truePeak": -2.6,
+      "encoding": "AAC-LC, mono, 96 kbps, 48 kHz",
+      "previewEndS": 18.3,
+      "free": true
+    },
+    {
+      "id": "saturn",
+      "lang": "en",
+      "file": "audio/narration/saturn.en.m4a",
+      "durationS": 66.16,
+      "voice": "Me2026",
+      "model": "eleven_v4",
+      "settings": {
+        "tags": [
+          "[calm]",
+          "[American accent]",
+          "[pause]"
+        ],
+        "apiParameters": "model defaults (see SETTINGS.md)",
+        "postTempo": 1.0,
+        "take": 2,
+        "generationId": "a6k2gDpZwHkoJAVakAWw",
+        "status": "chosen by transcription check",
+        "takes": [
+          {
+            "take": 1,
+            "generationId": "A0Vp5uaosIwWUvHrtVIa",
+            "durationS": 67.36,
+            "lufs": -16.2,
+            "truePeak": -5.6,
+            "sttDifferences": 4,
+            "flags": []
+          },
+          {
+            "take": 2,
+            "generationId": "a6k2gDpZwHkoJAVakAWw",
+            "durationS": 66.16,
+            "lufs": -16.1,
+            "truePeak": -2.4,
+            "sttDifferences": 4,
+            "flags": []
+          }
+        ],
+        "note": "chosen by the transcription check (fewest real flags, then loudness nearest −16 LUFS); director's rule, 11 Oct 2026"
+      },
+      "textSha256": "49848daf20bcac78058372793e15297abb65f7e713fe42caeb24c6aac7f09c82",
+      "generated": "2026-10-11",
+      "lufs": -16.1,
+      "truePeak": -2.4,
+      "encoding": "AAC-LC, mono, 96 kbps, 48 kHz",
+      "previewEndS": 25.4,
+      "free": true
+    },
+    {
+      "id": "uranus",
+      "lang": "ar",
+      "file": "audio/narration/uranus.ar.m4a",
+      "durationS": 76.88,
+      "voice": "Me2026",
+      "model": "eleven_v4",
+      "settings": {
+        "tags": [
+          "[calm]",
+          "[pause]"
+        ],
+        "apiParameters": "model defaults (see SETTINGS.md)",
+        "postTempo": 1.0,
+        "take": 3,
+        "generationId": "RWROYmCGUWbDs1MY2AVj",
+        "status": "chosen by transcription check",
+        "takes": [
+          {
+            "take": 1,
+            "generationId": "JwlXkBjd7yHEVbS3iZJP",
+            "durationS": 74.56,
+            "lufs": -16.1,
+            "truePeak": -1.6,
+            "sttDifferences": 2,
+            "flags": [
+              "أُورَانُوس heard as «أورانس» (long ū shortened?)"
+            ]
+          },
+          {
+            "take": 2,
+            "generationId": "AiaIbeA1J8jd1Eg9AwVP",
+            "durationS": 76.24,
+            "lufs": -16.2,
+            "truePeak": -2.7,
+            "sttDifferences": 7,
+            "flags": [
+              "أُورَانُوس heard as «أورانس» (long ū shortened?)"
+            ]
+          },
+          {
+            "take": 3,
+            "generationId": "RWROYmCGUWbDs1MY2AVj",
+            "durationS": 76.88,
+            "lufs": -16.0,
+            "truePeak": -2.6,
+            "sttDifferences": 5,
+            "flags": [],
+            "pass": "fix (director, 11 Oct)"
+          },
+          {
+            "take": 4,
+            "generationId": "rIzwMqSRKPhiJLfeK2un",
+            "durationS": 77.68,
+            "lufs": -16.2,
+            "truePeak": -2.6,
+            "sttDifferences": 6,
+            "flags": [],
+            "pass": "fix (director, 11 Oct)"
+          }
+        ],
+        "note": "chosen by the transcription check (fewest real flags, then loudness nearest −16 LUFS); director's rule, 11 Oct 2026; takes 1–2 were made from the earlier text"
+      },
+      "textSha256": "b487ddeb711c678f7f1209970ea3f07efbb0f8b5a8a33a00211654defa1706a2",
+      "generated": "2026-10-11",
+      "lufs": -16.0,
+      "truePeak": -2.6,
+      "encoding": "AAC-LC, mono, 96 kbps, 48 kHz",
+      "previewEndS": 17.14,
+      "free": false
+    },
+    {
+      "id": "uranus",
+      "lang": "en",
+      "file": "audio/narration/uranus.en.m4a",
+      "durationS": 67.36,
+      "voice": "Me2026",
+      "model": "eleven_v4",
+      "settings": {
+        "tags": [
+          "[calm]",
+          "[American accent]",
+          "[pause]"
+        ],
+        "apiParameters": "model defaults (see SETTINGS.md)",
+        "postTempo": 1.0,
+        "take": 2,
+        "generationId": "MavWJP0kzPfLxQnvkvus",
+        "status": "chosen by transcription check",
+        "takes": [
+          {
+            "take": 1,
+            "generationId": "P0ZEBXzXqhOYiM2bE6B4",
+            "durationS": 64.63,
+            "lufs": -16.2,
+            "truePeak": -2.5,
+            "sttDifferences": 6,
+            "flags": []
+          },
+          {
+            "take": 2,
+            "generationId": "MavWJP0kzPfLxQnvkvus",
+            "durationS": 67.36,
+            "lufs": -16.1,
+            "truePeak": -2.7,
+            "sttDifferences": 6,
+            "flags": []
+          }
+        ],
+        "note": "chosen by the transcription check (fewest real flags, then loudness nearest −16 LUFS); director's rule, 11 Oct 2026"
+      },
+      "textSha256": "97d28bbd2ca9af775ec375850eaad85ebf659f8ce47f030f2790ee1a263763ed",
+      "generated": "2026-10-11",
+      "lufs": -16.1,
+      "truePeak": -2.7,
+      "encoding": "AAC-LC, mono, 96 kbps, 48 kHz",
+      "previewEndS": 15.64,
+      "free": false
+    },
+    {
+      "id": "neptune",
+      "lang": "ar",
+      "file": "audio/narration/neptune.ar.m4a",
+      "durationS": 81.44,
+      "voice": "Me2026",
+      "model": "eleven_v4",
+      "settings": {
+        "tags": [
+          "[calm]",
+          "[pause]"
+        ],
+        "apiParameters": "model defaults (see SETTINGS.md)",
+        "postTempo": 1.0,
+        "take": 4,
+        "generationId": "u6xGmFJYTSuaGBLL6k1x",
+        "status": "chosen by transcription check",
+        "takes": [
+          {
+            "take": 1,
+            "generationId": "m3dPuGRk9zSTrqVLoQvV",
+            "durationS": 82.8,
+            "lufs": -16.2,
+            "truePeak": -2.4,
+            "sttDifferences": 6,
+            "flags": [
+              "غاله (Galle) heard as «جالوه»",
+              "قِيسَت heard as «قست» (long ī shortened?)"
+            ]
+          },
+          {
+            "take": 2,
+            "generationId": "Mloj4tgHHSefehhFEAmF",
+            "durationS": 81.84,
+            "lufs": -16.2,
+            "truePeak": -1.8,
+            "sttDifferences": 9,
+            "flags": [
+              "غاله (Galle) heard as «جالو»"
+            ]
+          },
+          {
+            "take": 3,
+            "generationId": "55zWrJnRsHrkWHSWtSoj",
+            "durationS": 82.24,
+            "lufs": -16.1,
+            "truePeak": -2.7,
+            "sttDifferences": 4,
+            "flags": [
+              "قِيسَت heard as «قست»"
+            ],
+            "pass": "fix (director, 11 Oct)"
+          },
+          {
+            "take": 4,
+            "generationId": "u6xGmFJYTSuaGBLL6k1x",
+            "durationS": 81.44,
+            "lufs": -16.2,
+            "truePeak": -3.9,
+            "sttDifferences": 4,
+            "flags": [],
+            "pass": "fix (director, 11 Oct)"
+          }
+        ],
+        "note": "chosen by the transcription check (fewest real flags, then loudness nearest −16 LUFS); director's rule, 11 Oct 2026; takes 1–2 were made from the earlier text"
+      },
+      "textSha256": "bfd39fd447200bd14300bed7102d7fdaf21642cdfee12dc8e0a93bdb1db8098f",
+      "generated": "2026-10-11",
+      "lufs": -16.2,
+      "truePeak": -3.9,
+      "encoding": "AAC-LC, mono, 96 kbps, 48 kHz",
+      "previewEndS": 39.68,
+      "free": false
+    },
+    {
+      "id": "neptune",
+      "lang": "en",
+      "file": "audio/narration/neptune.en.m4a",
+      "durationS": 70.4,
+      "voice": "Me2026",
+      "model": "eleven_v4",
+      "settings": {
+        "tags": [
+          "[calm]",
+          "[American accent]",
+          "[pause]"
+        ],
+        "apiParameters": "model defaults (see SETTINGS.md)",
+        "postTempo": 1.0,
+        "take": 2,
+        "generationId": "VryVvOO1mMsOp5ND1lrJ",
+        "status": "chosen by transcription check",
+        "takes": [
+          {
+            "take": 1,
+            "generationId": "WWo3p3Ewdm6186hhfRMU",
+            "durationS": 70.72,
+            "lufs": -16.2,
+            "truePeak": -2.6,
+            "sttDifferences": 5,
+            "flags": []
+          },
+          {
+            "take": 2,
+            "generationId": "VryVvOO1mMsOp5ND1lrJ",
+            "durationS": 70.4,
+            "lufs": -16.1,
+            "truePeak": -3.8,
+            "sttDifferences": 4,
+            "flags": []
+          }
+        ],
+        "note": "chosen by the transcription check (fewest real flags, then loudness nearest −16 LUFS); director's rule, 11 Oct 2026"
+      },
+      "textSha256": "a499f0dd2d3bb1c6f7240a069149b574ac10f2c69e2a4fe81ac53757629351aa",
+      "generated": "2026-10-11",
+      "lufs": -16.1,
+      "truePeak": -3.8,
+      "encoding": "AAC-LC, mono, 96 kbps, 48 kHz",
+      "previewEndS": 35.38,
+      "free": false
+    },
+    {
+      "id": "iss",
+      "lang": "ar",
+      "file": "audio/narration/iss.ar.m4a",
+      "durationS": 89.12,
+      "voice": "Me2026",
+      "model": "eleven_v4",
+      "settings": {
+        "tags": [
+          "[calm]",
+          "[pause]"
+        ],
+        "apiParameters": "model defaults (see SETTINGS.md)",
+        "postTempo": 1.0,
+        "take": 2,
+        "generationId": "odb82REYTEUE6hYDYtR2",
+        "status": "chosen by transcription check",
+        "takes": [
+          {
+            "take": 1,
+            "generationId": "L9VutFYQJkvK76YYI27e",
+            "durationS": 90.8,
+            "lufs": -16.2,
+            "truePeak": -2.6,
+            "sttDifferences": 6,
+            "flags": [
+              "رَيّانة heard as «ريان» (final -a dropped?)"
+            ]
+          },
+          {
+            "take": 2,
+            "generationId": "odb82REYTEUE6hYDYtR2",
+            "durationS": 89.12,
+            "lufs": -16.9,
+            "truePeak": -3.2,
+            "sttDifferences": 5,
+            "flags": []
+          }
+        ],
+        "note": "chosen by the transcription check (fewest real flags, then loudness nearest −16 LUFS); director's rule, 11 Oct 2026"
+      },
+      "textSha256": "1a5cf2a497dd635a5e86c388ee48bdd39c61f8a91201afb1f6cbce4c549d9efd",
+      "generated": "2026-10-11",
+      "lufs": -16.9,
+      "truePeak": -3.2,
+      "encoding": "AAC-LC, mono, 96 kbps, 48 kHz",
+      "previewEndS": 20.38,
+      "free": true
+    },
+    {
+      "id": "iss",
+      "lang": "en",
+      "file": "audio/narration/iss.en.m4a",
+      "durationS": 72.96,
+      "voice": "Me2026",
+      "model": "eleven_v4",
+      "settings": {
+        "tags": [
+          "[calm]",
+          "[American accent]",
+          "[pause]"
+        ],
+        "apiParameters": "model defaults (see SETTINGS.md)",
+        "postTempo": 1.0,
+        "take": 1,
+        "generationId": "ghi79t1tuic3xj0wideM",
+        "status": "chosen by transcription check",
+        "takes": [
+          {
+            "take": 1,
+            "generationId": "ghi79t1tuic3xj0wideM",
+            "durationS": 72.96,
+            "lufs": -16.1,
+            "truePeak": -2.7,
+            "sttDifferences": 6,
+            "flags": []
+          },
+          {
+            "take": 2,
+            "generationId": "Z3xIVUeahum48q4xpFSL",
+            "durationS": 72.16,
+            "lufs": -16.2,
+            "truePeak": -2.8,
+            "sttDifferences": 3,
+            "flags": []
+          }
+        ],
+        "note": "chosen by the transcription check (fewest real flags, then loudness nearest −16 LUFS); director's rule, 11 Oct 2026"
+      },
+      "textSha256": "d8e09536e146a6551afdc9560e979a7c84226898b8de567d786035f080783fad",
+      "generated": "2026-10-11",
+      "lufs": -16.1,
+      "truePeak": -2.7,
+      "encoding": "AAC-LC, mono, 96 kbps, 48 kHz",
+      "previewEndS": 16.66,
+      "free": true
+    },
+    {
+      "id": "tiangong",
+      "lang": "ar",
+      "file": "audio/narration/tiangong.ar.m4a",
+      "durationS": 70.56,
+      "voice": "Me2026",
+      "model": "eleven_v4",
+      "settings": {
+        "tags": [
+          "[calm]",
+          "[pause]"
+        ],
+        "apiParameters": "model defaults (see SETTINGS.md)",
+        "postTempo": 1.0,
+        "take": 2,
+        "generationId": "roAVDvBMmkEicByaENvh",
+        "status": "chosen by transcription check",
+        "takes": [
+          {
+            "take": 1,
+            "generationId": "jioOTOQR1hdSrmltxHi3",
+            "durationS": 71.12,
+            "lufs": -16.1,
+            "truePeak": -2.6,
+            "sttDifferences": 7,
+            "flags": [
+              "مِنغ تيان heard as «منتيان» (the -ng dropped?)"
+            ]
+          },
+          {
+            "take": 2,
+            "generationId": "roAVDvBMmkEicByaENvh",
+            "durationS": 70.56,
+            "lufs": -16.5,
+            "truePeak": -6.5,
+            "sttDifferences": 7,
+            "flags": []
+          }
+        ],
+        "note": "chosen by the transcription check (fewest real flags, then loudness nearest −16 LUFS); director's rule, 11 Oct 2026"
+      },
+      "textSha256": "81f2b37fe6c7dccb9d441862db7618b52c87ba91b393c6edd0aad586a0ae36c1",
+      "generated": "2026-10-11",
+      "lufs": -16.5,
+      "truePeak": -6.5,
+      "encoding": "AAC-LC, mono, 96 kbps, 48 kHz",
+      "previewEndS": 19.76,
+      "free": false
+    },
+    {
+      "id": "tiangong",
+      "lang": "en",
+      "file": "audio/narration/tiangong.en.m4a",
+      "durationS": 59.04,
+      "voice": "Me2026",
+      "model": "eleven_v4",
+      "settings": {
+        "tags": [
+          "[calm]",
+          "[American accent]",
+          "[pause]"
+        ],
+        "apiParameters": "model defaults (see SETTINGS.md)",
+        "postTempo": 1.0,
+        "take": 1,
+        "generationId": "cZezT41ynaWLExqMPDeu",
+        "status": "chosen by transcription check",
+        "takes": [
+          {
+            "take": 1,
+            "generationId": "cZezT41ynaWLExqMPDeu",
+            "durationS": 59.04,
+            "lufs": -16.1,
+            "truePeak": -2.6,
+            "sttDifferences": 3,
+            "flags": []
+          },
+          {
+            "take": 2,
+            "generationId": "KIds0bU9fN8fnE4bZg7Z",
+            "durationS": 58.96,
+            "lufs": -16.2,
+            "truePeak": -3.3,
+            "sttDifferences": 3,
+            "flags": []
+          }
+        ],
+        "note": "chosen by the transcription check (fewest real flags, then loudness nearest −16 LUFS); director's rule, 11 Oct 2026"
+      },
+      "textSha256": "08a30a8d877c69babc5df2c9a57f59e4835ed4a615e5bf9601e9c19c0a082ba7",
+      "generated": "2026-10-11",
+      "lufs": -16.1,
+      "truePeak": -2.6,
+      "encoding": "AAC-LC, mono, 96 kbps, 48 kHz",
+      "previewEndS": 16.32,
+      "free": false
+    },
+    {
+      "id": "hubble",
+      "lang": "ar",
+      "file": "audio/narration/hubble.ar.m4a",
+      "durationS": 67.2,
+      "voice": "Me2026",
+      "model": "eleven_v4",
+      "settings": {
+        "tags": [
+          "[calm]",
+          "[pause]"
+        ],
+        "apiParameters": "model defaults (see SETTINGS.md)",
+        "postTempo": 1.0,
+        "take": 1,
+        "generationId": "083OmsJ3XdFjOQ0u7Nb8",
+        "status": "chosen by transcription check",
+        "takes": [
+          {
+            "take": 1,
+            "generationId": "083OmsJ3XdFjOQ0u7Nb8",
+            "durationS": 67.2,
+            "lufs": -16.0,
+            "truePeak": -2.7,
+            "sttDifferences": 6,
+            "flags": []
+          },
+          {
+            "take": 2,
+            "generationId": "7tHg8kpAI4mr2KC7kaYK",
+            "durationS": 71.6,
+            "lufs": -16.0,
+            "truePeak": -2.6,
+            "sttDifferences": 8,
+            "flags": []
+          }
+        ],
+        "note": "chosen by the transcription check (fewest real flags, then loudness nearest −16 LUFS); director's rule, 11 Oct 2026"
+      },
+      "textSha256": "543c5300ad8959688f338a308c937e0575f62d1a4b1bb2cc8f60b8bcfc854568",
+      "generated": "2026-10-11",
+      "lufs": -16.0,
+      "truePeak": -2.7,
+      "encoding": "AAC-LC, mono, 96 kbps, 48 kHz",
+      "previewEndS": 19.18,
+      "free": false
+    },
+    {
+      "id": "hubble",
+      "lang": "en",
+      "file": "audio/narration/hubble.en.m4a",
+      "durationS": 56.72,
+      "voice": "Me2026",
+      "model": "eleven_v4",
+      "settings": {
+        "tags": [
+          "[calm]",
+          "[American accent]",
+          "[pause]"
+        ],
+        "apiParameters": "model defaults (see SETTINGS.md)",
+        "postTempo": 1.0,
+        "take": 1,
+        "generationId": "qsqPHN7QzEioyUhZ7h54",
+        "status": "chosen by transcription check",
+        "takes": [
+          {
+            "take": 1,
+            "generationId": "qsqPHN7QzEioyUhZ7h54",
+            "durationS": 56.72,
+            "lufs": -16.1,
+            "truePeak": -2.6,
+            "sttDifferences": 2,
+            "flags": []
+          },
+          {
+            "take": 2,
+            "generationId": "9fDsUfjegiPvFDozqIsT",
+            "durationS": 56.88,
+            "lufs": -16.1,
+            "truePeak": -2.4,
+            "sttDifferences": 3,
+            "flags": []
+          }
+        ],
+        "note": "chosen by the transcription check (fewest real flags, then loudness nearest −16 LUFS); director's rule, 11 Oct 2026"
+      },
+      "textSha256": "58cafbd529b587c39409a65e69fa5af12687d855c02797b0b34fd02b111ea856",
+      "generated": "2026-10-11",
+      "lufs": -16.1,
+      "truePeak": -2.6,
+      "encoding": "AAC-LC, mono, 96 kbps, 48 kHz",
+      "previewEndS": 33.1,
+      "free": false
+    }
+  ]
+}
