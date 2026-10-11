@@ -1,0 +1,34 @@
+Maher al-Muaiqly — King Fahd Glorious Quran Printing Complex recording
+
+Human recitation, original MP3 96 kbps / 44.1 kHz / stereo, without transcoding.
+Faisal accepted the twelve verse excerpts on 11 October 2026 and directly requested
+the two joined pairs. He separately listened to and approved the Basmala twice.
+The joined pairs retain all original frames and pauses between the accepted excerpts.
+
+Official source package:
+https://download.qurancomplex.gov.sa/new-sounds/muaiqly-08/hafs/sura-12-1-2020.zip
+Official reciter page:
+https://qurancomplex.gov.sa/sounds-hafs-muaiqly/
+
+Use notice:
+https://qurancomplex.gov.sa/quran-audios/
+Archived notice actually examined:
+https://web.archive.org/web/20260122033750id_/https://qurancomplex.gov.sa/quran-audios/
+Earlier notice:
+https://web.archive.org/web/20250907023653id_/https://qurancomplex.gov.sa/sounds/
+
+Scope recorded from the Complex's public notice: free use of its listed recordings
+in computer applications, websites, broadcasting and government/private institutions
+inside and outside Saudi Arabia. No per-application approval condition appeared in
+the examined notice. This applies to this official recording, not every recording by
+the reciter. Commercial subscriptions, freemium monetization or sale of recordings
+are not expressly addressed here; no broader permission is asserted.
+
+Najm provides these recordings for free listening. Najm does not claim ownership or
+exclusive rights to this recording, and the recording is not presented as a paid-tier
+asset. Technical provenance, exact source/archive URLs, source hashes, frame-copy
+proofs and human approval status are in provenance.json; final file hashes are also
+in SHA256SUMS.
+
+البسملة والتلاوة بصوت بشري من تسجيل مجمع الملك فهد، للاستماع المجاني.
+لا يدّعي نجم ملكية التسجيل أو حقًا حصريًا فيه. لم تُعد ترميز الملفات ولم يُرفع معدلها.

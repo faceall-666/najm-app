@@ -1,0 +1,5 @@
+Najm narration audio
+
+The recordings in this folder are synthesised in Faisal's own cloned voice ("Me2026", ElevenLabs) and were made
+for Najm. All rights reserved. They may not be copied, redistributed, re-used in other works or used to train or
+clone a voice without Faisal's written permission.

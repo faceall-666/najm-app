@@ -1,0 +1,14 @@
+Najm — background music: public/audio/najm-night.m4a
+
+Source:   generated for Najm with Higgsfield — model sonilo_music, via the Higgsfield CLI — on Faisal's Higgsfield Ultra
+          plan. Candidate A ("pads") of three, chosen by Faisal on 10 October 2026.
+Date:     10 October 2026
+Job ID:   1bd0f043-b3be-48cb-8f2d-44c8d22929d9
+Prompt:   (duration 150 s) "Calm ambient music for stargazing at night under a desert sky. Slow, evolving, warm analog
+          synth pads and soft sustained drones, faint shimmering high textures like distant stars, very slow harmonic
+          movement, peaceful, spacious and intimate. No drums, no percussion, no beat, no vocals, no choir, no lead
+          melody. Gentle and even dynamics from start to end, starts and ends softly so it loops seamlessly."
+Changes:  trimmed to 147 s (the last 3 s were near-silent) with a 1.5-s fade-out at the end; level −2.2 dB
+          (≈ −14 LUFS integrated, true peak ≈ −3 dBTP); re-encoded AAC-LC 112 kbps, stereo, 44.1 kHz. The app loops it
+          with a 6-s equal-power crossfade at 35 % volume (src/ui/music.ts).
+Licence:  commercial use under Higgsfield's paid-plan terms — to be confirmed before the App Store launch.
