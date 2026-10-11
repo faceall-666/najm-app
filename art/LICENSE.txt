@@ -3,8 +3,11 @@ Constellation figures in this folder are modified versions of the illustrations 
 https://github.com/stellarium/stellarium/tree/master/skycultures/modern
 
 Modification: each figure was redrawn as an antique star-atlas engraving with Higgsfield (GPT Image 2.5)
-using the original as reference, aligned back onto the original silhouette, and converted to light line
-art (WebP) by Najm.
+using the original as reference, aligned back onto the original silhouette, and converted by Najm
+(scripts/build_art.py) into light line art:
+  sheets/<name>.webp  the sky's figure: contour + soft fill, inner lines, hatching, each with its mip levels
+  atlas.webp          every figure's outline picture ("All figures")
+  <name>.webp         the constellation page's picture (contour, hatching and fill)
 
 Licence: Free Art License 1.3 — https://artlibre.org/licence/lal/en/
 You are free to copy, distribute and modify these images under the terms of that licence.
