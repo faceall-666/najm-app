@@ -1,0 +1,424 @@
+{
+  "reciter": "Maher al-Muaiqly",
+  "publisher": "King Fahd Glorious Quran Printing Complex",
+  "codec": "MP3",
+  "bitrate": 96000,
+  "sample_rate": 44100,
+  "channels": 2,
+  "total_audio_bytes": 2215917,
+  "source_zip_url": "https://download.qurancomplex.gov.sa/new-sounds/muaiqly-08/hafs/sura-12-1-2020.zip",
+  "archive_zip_url": "https://web.archive.org/web/20220415193726id_/https://download.qurancomplex.gov.sa/new-sounds/muaiqly-08/hafs/sura-12-1-2020.zip",
+  "archive_capture": "20220415193726",
+  "permission_sources": [
+    {
+      "original_url": "https://qurancomplex.gov.sa/sounds/",
+      "capture": "2025-09-07 02:36:53 UTC",
+      "snapshot_url": "https://web.archive.org/web/20250907023653id_/https://qurancomplex.gov.sa/sounds/"
+    },
+    {
+      "original_url": "https://qurancomplex.gov.sa/quran-audios/",
+      "capture": "2026-01-22 03:37:50 UTC",
+      "snapshot_url": "https://web.archive.org/web/20260122033750id_/https://qurancomplex.gov.sa/quran-audios/"
+    }
+  ],
+  "permission_scope_notes": [
+    "Official public notice permits free use of its listed recordings in computer applications, websites, broadcast and government/private institutions inside and outside Saudi Arabia; Maher is listed and linked.",
+    "No per-application approval requirement appears in that notice. Permission attaches to this Complex recording, not every recording by the reciter.",
+    "Commercial subscriptions, freemium monetization and sale of recordings are not expressly addressed; no broader legal conclusion is asserted.",
+    "Bytes extracted from the archived official ZIP via bounded ranges; not a third-party recording."
+  ],
+  "human_approval_evidence": "Faisal accepted all12 verses on11Oct; requested both pairs directly; twice approved the separate Basmala preview. Direct user statements relayed by lead engineer.",
+  "files": [
+    {
+      "id": "basmala",
+      "basename": "basmala.mp3",
+      "verseKeys": [],
+      "durationS": 6.922417,
+      "bytes": 83069,
+      "sha256": "e09e009a94fc56764ac8ae94b6368232b36c18baa86e312d5ccd7e0f4f34c744",
+      "source_surah_sha256": "0398f12cb02c00de00e8699f8bc1c44119c7f3254f1c5bce00c021b09dcf3906",
+      "audio_reencoded": false,
+      "decoded_without_errors": true,
+      "human_approved": true,
+      "approval_date": "2026-10-11",
+      "verification": {
+        "waveform_alignment_peak": 0.9612045266757547,
+        "member_crc32": "4f31cfe7",
+        "member_size": 753249,
+        "member_basename": "10-001D00-A08.mp3",
+        "source_frames": {
+          "all_packets_identical_to_source": true,
+          "contiguous_source_packet_count": 265,
+          "source_first_packet_pts_seconds": 7.288163,
+          "source_last_packet_end_seconds": 14.210612000000001,
+          "source_first_packet_byte_offset": 89506,
+          "source_last_packet_byte_offset": 172262,
+          "ordered_packet_hash_list_sha256": "2aaaa7017401ca8e23e65794818a38bf5e1740a374a7b7cbd6f8729aff3e9d2d"
+        },
+        "listened_by_faisal": true,
+        "approval_words": [
+          "سليمة، اعتمدها",
+          "سليم البسمله اعتمدها انطلق"
+        ]
+      }
+    },
+    {
+      "id": "2-189",
+      "basename": "2-189.mp3",
+      "verseKeys": [
+        "2:189"
+      ],
+      "durationS": 29.49225,
+      "bytes": 353907,
+      "sha256": "48803263f60e37f25a1633a24edc1dadddc1c1462ccfe8c584edaa62644b7e38",
+      "source_surah_sha256": "2b7071c038a6d9738715027c7b4dd9ce37b1cab2792b75a1e0ad87a4eb93e715",
+      "audio_reencoded": false,
+      "decoded_without_errors": true,
+      "human_approved": true,
+      "approval_date": "2026-10-11",
+      "verification": {
+        "source_frames": {
+          "all_packets_identical_to_source": true,
+          "contiguous_source_packet_count": 1129,
+          "source_first_packet_pts_seconds": 4586.501224,
+          "source_last_packet_end_seconds": 4615.993469,
+          "source_first_packet_byte_offset": 55049279,
+          "source_last_packet_byte_offset": 55402872,
+          "ordered_packet_hash_list_sha256": "f02311449f18fff65f1a388fd0ea096b16459ca9b5ebb648de9eb41024e66efe"
+        },
+        "waveform_alignment_peak": 0.9953998637844922,
+        "listened_by_faisal": true
+      }
+    },
+    {
+      "id": "3-190",
+      "basename": "3-190.mp3",
+      "verseKeys": [
+        "3:190"
+      ],
+      "durationS": 13.218,
+      "bytes": 158616,
+      "sha256": "20090dacd48980cb41fc4fc8155e61fe3f07cc342adec63e43efb27781a88055",
+      "source_surah_sha256": "b0da08dadd6f47ac6a901c7206405e8c2b7fd4940981c02e1a0d257bd28ad221",
+      "audio_reencoded": false,
+      "decoded_without_errors": true,
+      "human_approved": true,
+      "approval_date": "2026-10-11",
+      "verification": {
+        "source_frames": {
+          "all_packets_identical_to_source": true,
+          "contiguous_source_packet_count": 506,
+          "source_first_packet_pts_seconds": 4447.843265,
+          "source_last_packet_end_seconds": 4461.061224,
+          "source_first_packet_byte_offset": 53377191,
+          "source_last_packet_byte_offset": 53535493,
+          "ordered_packet_hash_list_sha256": "309e352d7f597b351eb70ff87798406a83ac764d6eee06ed467db50ca56c3360"
+        },
+        "waveform_alignment_peak": 0.9927484645992324,
+        "listened_by_faisal": true
+      }
+    },
+    {
+      "id": "6-97",
+      "basename": "6-97.mp3",
+      "verseKeys": [
+        "6:97"
+      ],
+      "durationS": 18.834333,
+      "bytes": 226012,
+      "sha256": "b8bd0726da53ef6f36420c84397052314dd9e770bb96ec3df4df946650b476bd",
+      "source_surah_sha256": "9e2f0c548d469ec410a140a4a712d9bace4ee38eac0fb837d9cf7a22443e09f3",
+      "audio_reencoded": false,
+      "decoded_without_errors": true,
+      "human_approved": true,
+      "approval_date": "2026-10-11",
+      "verification": {
+        "source_frames": {
+          "all_packets_identical_to_source": true,
+          "contiguous_source_packet_count": 721,
+          "source_first_packet_pts_seconds": 2391.327347,
+          "source_last_packet_end_seconds": 2410.1616320000003,
+          "source_first_packet_byte_offset": 28703096,
+          "source_last_packet_byte_offset": 28928794,
+          "ordered_packet_hash_list_sha256": "4468ed099d8819bede60d314a39f5a302f4a022e40f6408d410f676f66f3d0de"
+        },
+        "waveform_alignment_peak": 0.9963717594943897,
+        "listened_by_faisal": true
+      }
+    },
+    {
+      "id": "10-5",
+      "basename": "10-5.mp3",
+      "verseKeys": [
+        "10:5"
+      ],
+      "durationS": 33.01875,
+      "bytes": 396225,
+      "sha256": "f2129c9c6e07c9aa7b23f94d7e70745bf293b71c26cb5e8b93aea3766875b47c",
+      "source_surah_sha256": "a7d759fff600044fe791cd4594a3bac18501d1a30bc71e5a633e03887148232e",
+      "audio_reencoded": false,
+      "decoded_without_errors": true,
+      "human_approved": true,
+      "approval_date": "2026-10-11",
+      "verification": {
+        "source_frames": {
+          "all_packets_identical_to_source": true,
+          "contiguous_source_packet_count": 1264,
+          "source_first_packet_pts_seconds": 135.68,
+          "source_last_packet_end_seconds": 168.69877499999998,
+          "source_first_packet_byte_offset": 1633280,
+          "source_last_packet_byte_offset": 2029192,
+          "ordered_packet_hash_list_sha256": "023dccdff193c0eb44df4271ca3c16a509389b25d0990777715cd6144e7f3b8d"
+        },
+        "waveform_alignment_peak": 0.9938914768989507,
+        "listened_by_faisal": true
+      }
+    },
+    {
+      "id": "36-38",
+      "basename": "36-38.mp3",
+      "verseKeys": [
+        "36:38"
+      ],
+      "durationS": 12.382083,
+      "bytes": 148585,
+      "sha256": "1540ec07191798935887dd531ad7f39abe39642cc033b68b98d613ead9d5a989",
+      "source_surah_sha256": "d37cd46fda33242e14b1b4a9bcd8b8a4ac95f02d6137737859daec9802f58eff",
+      "audio_reencoded": false,
+      "decoded_without_errors": true,
+      "human_approved": true,
+      "approval_date": "2026-10-11",
+      "verification": {
+        "source_frames": {
+          "all_packets_identical_to_source": true,
+          "contiguous_source_packet_count": 474,
+          "source_first_packet_pts_seconds": 519.810612,
+          "source_last_packet_end_seconds": 532.192653,
+          "source_first_packet_byte_offset": 6241823,
+          "source_last_packet_byte_offset": 6390094,
+          "ordered_packet_hash_list_sha256": "c970fcfae31560e078c1c78f3efbc78c298f65e8f557eb48b5f8b73c02e609a3"
+        },
+        "waveform_alignment_peak": 0.9943050373557742,
+        "listened_by_faisal": true
+      }
+    },
+    {
+      "id": "36-39",
+      "basename": "36-39.mp3",
+      "verseKeys": [
+        "36:39"
+      ],
+      "durationS": 10.840833,
+      "bytes": 130090,
+      "sha256": "be8c3cd12b7b72c258bd8180689cb1791876506a923bb64aebd24c4969268614",
+      "source_surah_sha256": "d37cd46fda33242e14b1b4a9bcd8b8a4ac95f02d6137737859daec9802f58eff",
+      "audio_reencoded": false,
+      "decoded_without_errors": true,
+      "human_approved": true,
+      "approval_date": "2026-10-11",
+      "verification": {
+        "source_frames": {
+          "all_packets_identical_to_source": true,
+          "contiguous_source_packet_count": 415,
+          "source_first_packet_pts_seconds": 532.244898,
+          "source_last_packet_end_seconds": 543.0857139999999,
+          "source_first_packet_byte_offset": 6391035,
+          "source_last_packet_byte_offset": 6520811,
+          "ordered_packet_hash_list_sha256": "6adaf6e7388e304c3e7e87e5b9ac096f301490b03c4e4406bfb968b652fd92ca"
+        },
+        "waveform_alignment_peak": 0.994227476701213,
+        "listened_by_faisal": true
+      }
+    },
+    {
+      "id": "53-49",
+      "basename": "53-49.mp3",
+      "verseKeys": [
+        "53:49"
+      ],
+      "durationS": 5.929833,
+      "bytes": 71158,
+      "sha256": "5fde47c717117a64d2776b8b83cd384711ba41dd9826753b8d154cafbcbf1390",
+      "source_surah_sha256": "e8dc8eb548f49334d380a5ab8b20df38852d7f61a18fa4d094636ef07c7b42c6",
+      "audio_reencoded": false,
+      "decoded_without_errors": true,
+      "human_approved": true,
+      "approval_date": "2026-10-11",
+      "verification": {
+        "source_frames": {
+          "all_packets_identical_to_source": true,
+          "contiguous_source_packet_count": 227,
+          "source_first_packet_pts_seconds": 425.142857,
+          "source_last_packet_end_seconds": 431.072653,
+          "source_first_packet_byte_offset": 5104786,
+          "source_last_packet_byte_offset": 5175630,
+          "ordered_packet_hash_list_sha256": "1a76066ec3d501e6926bf55cbe416ef83c9a0d3a12da08a28f049f859738eecd"
+        },
+        "waveform_alignment_peak": 0.9954295185561547,
+        "listened_by_faisal": true
+      }
+    },
+    {
+      "id": "56-75",
+      "basename": "56-75-56-76.mp3",
+      "verseKeys": [
+        "56:75",
+        "56:76"
+      ],
+      "durationS": 20.140417,
+      "bytes": 241685,
+      "sha256": "00cdc5335a76c8ae1e7e2bce766e39ca83471f6a0fdef2dee7f79cac00a2995a",
+      "source_surah_sha256": "5d6552fdd7bef8eb9b2ed25ce366e2d005ba2601df2d15cc3817b196d4c51b88",
+      "audio_reencoded": false,
+      "decoded_without_errors": true,
+      "human_approved": true,
+      "approval_date": "2026-10-11",
+      "verification": {
+        "source_frames": {
+          "source_start_seconds": 659.748571,
+          "source_end_seconds": 679.888979,
+          "source_first_packet_byte_offset": 7922103,
+          "source_end_byte_offset_exclusive": 8163788,
+          "frame_count": 771,
+          "ordered_packet_hash_list_sha256": "f755e5a15d65b99565d827592f05cc7300b890b3a30aed49819916111e1b2571",
+          "overlapping_frames_verified": 142
+        },
+        "restored_original_pause": {
+          "frame_count": 11,
+          "encoded_duration_seconds": 0.2873469387755102,
+          "sample_count": 12672,
+          "ffprobe_sum_rounded_packet_durations_seconds": 0.287342,
+          "source_interval_start_seconds": 669.413877,
+          "source_interval_end_seconds": 669.701224,
+          "note": "Original source frames between the accepted separate clips; no inserted/removed silence or repeated overlap."
+        },
+        "context_evidence": [
+          {
+            "sha256": "fb1a7fcb10013a712b50d2a727d14e820ce3adb7485080e770976319171ef227",
+            "provenance_sha256": "642a44193e070748d685aa73acf6bc1eaab355d2858a877950b2e0eaca11dbbf",
+            "original_encoded_frame_copy_proof": {
+              "all_packets_identical_to_source": true,
+              "contiguous_source_packet_count": 523,
+              "source_first_packet_pts_seconds": 657.763265,
+              "source_last_packet_end_seconds": 671.425306,
+              "source_first_packet_byte_offset": 7898279,
+              "source_last_packet_byte_offset": 8061910,
+              "ordered_packet_hash_list_sha256": "f675560cd483c07eb8055a0135503615097e1349301de06a83d1df5e9f9477e0"
+            }
+          },
+          {
+            "sha256": "cf45a221e2abe85baa067747601c7ac8652f48a8fe9e4f919c8e2997b7e8e37d",
+            "provenance_sha256": "9e8dfd532090aeac4218bd6c164e4d4dc98cff88d679d3b11811e0cdb0c27c63",
+            "original_encoded_frame_copy_proof": {
+              "all_packets_identical_to_source": true,
+              "contiguous_source_packet_count": 543,
+              "source_first_packet_pts_seconds": 667.715918,
+              "source_last_packet_end_seconds": 681.900408,
+              "source_first_packet_byte_offset": 8017711,
+              "source_last_packet_byte_offset": 8187611,
+              "ordered_packet_hash_list_sha256": "fd03bde7ac9a397fe2c32447e412428f7f7d5e82a3e4ac8d3e0ffab01fcba136"
+            }
+          }
+        ],
+        "source_verses_listened_by_faisal": true,
+        "pair_combination_directly_requested": true,
+        "listened_as_combined_file": false
+      }
+    },
+    {
+      "id": "67-5",
+      "basename": "67-5.mp3",
+      "verseKeys": [
+        "67:5"
+      ],
+      "durationS": 22.12575,
+      "bytes": 265509,
+      "sha256": "ba38bc2ef4fe7bedb77dd8af6248c0441231d62a05b35ec86d24b1bde925b2b4",
+      "source_surah_sha256": "f95f60278d76a2c2d96ff8e05c9eae90498551f6a86a1254033f99e3220d36be",
+      "audio_reencoded": false,
+      "decoded_without_errors": true,
+      "human_approved": true,
+      "approval_date": "2026-10-11",
+      "verification": {
+        "source_frames": {
+          "all_packets_identical_to_source": true,
+          "contiguous_source_packet_count": 847,
+          "source_first_packet_pts_seconds": 73.691429,
+          "source_last_packet_end_seconds": 95.817142,
+          "source_first_packet_byte_offset": 886345,
+          "source_last_packet_byte_offset": 1151540,
+          "ordered_packet_hash_list_sha256": "8d05ca85f2881c116ed30230d44846283221352b7d1e9fbeabb98717eda4a5cb"
+        },
+        "waveform_alignment_peak": 0.9897960195057561,
+        "listened_by_faisal": true
+      }
+    },
+    {
+      "id": "81-15",
+      "basename": "81-15-81-16.mp3",
+      "verseKeys": [
+        "81:15",
+        "81:16"
+      ],
+      "durationS": 11.755083,
+      "bytes": 141061,
+      "sha256": "c7854ac4cc55cbdce716c3fc27048eeca0ac1aeb9d575a975db86fd068506659",
+      "source_surah_sha256": "eb1a2b0a1e61da3dd0cc9adcd8c1218396ef3649e25b657046f34c2a68a0fbac",
+      "audio_reencoded": false,
+      "decoded_without_errors": true,
+      "human_approved": true,
+      "approval_date": "2026-10-11",
+      "verification": {
+        "source_frames": {
+          "source_start_seconds": 85.995102,
+          "source_end_seconds": 97.750204,
+          "source_first_packet_byte_offset": 1033989,
+          "source_end_byte_offset_exclusive": 1175050,
+          "frame_count": 450,
+          "ordered_packet_hash_list_sha256": "4a55a5e803ac5f2894a5052940a2d66204164613a5022d06808afdd54a6e5b88",
+          "overlapping_frames_verified": 125
+        },
+        "restored_original_pause": {
+          "frame_count": 28,
+          "encoded_duration_seconds": 0.7314285714285714,
+          "sample_count": 32256,
+          "ffprobe_sum_rounded_packet_durations_seconds": 0.731416,
+          "source_interval_start_seconds": 92.499591,
+          "source_interval_end_seconds": 93.23102,
+          "note": "Original source frames between the accepted separate clips; no inserted/removed silence or repeated overlap."
+        },
+        "context_evidence": [
+          {
+            "sha256": "c3c9453d9df3f9a65195ea8902f6c46d4f73e187767aa8a9e762d05dac867b76",
+            "provenance_sha256": "f3e758f588601605b8f4577c979482b7ede0853aa652c658f566baeb66009e6c",
+            "original_encoded_frame_copy_proof": {
+              "all_packets_identical_to_source": true,
+              "contiguous_source_packet_count": 402,
+              "source_first_packet_pts_seconds": 84.009796,
+              "source_last_packet_end_seconds": 94.51102,
+              "source_first_packet_byte_offset": 1010166,
+              "source_last_packet_byte_offset": 1135867,
+              "ordered_packet_hash_list_sha256": "8bc45d767fae3f9ff3bb73002d6a6b058599a0280fc146eb72d037653445a8b4"
+            }
+          },
+          {
+            "sha256": "7d6c54687bfed43b3764ae846b81ccd5e7fe8667ad1d158eac18bfa7b72133f2",
+            "provenance_sha256": "d17be327cedf5a1b6a1209afeee138cc5140cf6ea25bd445deb1c055e063dfa2",
+            "original_encoded_frame_copy_proof": {
+              "all_packets_identical_to_source": true,
+              "contiguous_source_packet_count": 326,
+              "source_first_packet_pts_seconds": 91.245714,
+              "source_last_packet_end_seconds": 99.761632,
+              "source_first_packet_byte_offset": 1096997,
+              "source_last_packet_byte_offset": 1198874,
+              "ordered_packet_hash_list_sha256": "075e2116cd813a4e6982f479727b0850353f3cac779d41d7850481d4c36debe4"
+            }
+          }
+        ],
+        "source_verses_listened_by_faisal": true,
+        "pair_combination_directly_requested": true,
+        "listened_as_combined_file": false
+      }
+    }
+  ]
+}
