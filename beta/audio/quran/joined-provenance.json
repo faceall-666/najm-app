@@ -1,0 +1,795 @@
+{
+  "reciter": "Maher al-Muaiqly",
+  "publisher": "King Fahd Glorious Quran Printing Complex",
+  "source_zip_url": "https://download.qurancomplex.gov.sa/new-sounds/muaiqly-08/hafs/sura-12-1-2020.zip",
+  "originalProvenance": {
+    "basename": "provenance.json",
+    "bytes": 17973,
+    "sha256": "014f2f9a8fcd644e188e7b0f3cd5fc3e61d011f9debb6d2ae40c331c87822c5a"
+  },
+  "codec": "FLAC",
+  "canonicalPCM": "s16le / 44100Hz / stereo / independently decoded approved MP3 components",
+  "original_audio_bytes": 2215917,
+  "total_joined_audio_bytes": 15969308,
+  "total_delivered_audio_bytes": 18185225,
+  "files": [
+    {
+      "id": "2-189",
+      "basename": "joined/2-189.flac",
+      "verseKeys": [
+        "2:189"
+      ],
+      "durationS": 36.414693877551024,
+      "bytes": 2198734,
+      "sha256": "3e1cd94e315096936b9495b42bc86855630061af6ab7692eca41282e63853341",
+      "includesBasmala": true,
+      "codec": "FLAC",
+      "canonicalPCM": {
+        "format": "s16le",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitsPerSample": 16,
+        "samplesPerChannel": 1605888,
+        "bytes": 6423552,
+        "sha256": "007a8f4cff0235eb5025442adf91cbdd0ba28fe671b6452a0f922b4334613e49"
+      },
+      "inputs": [
+        {
+          "id": "basmala",
+          "basename": "basmala.mp3",
+          "bytes": 83069,
+          "sha256": "e09e009a94fc56764ac8ae94b6368232b36c18baa86e312d5ccd7e0f4f34c744",
+          "humanApprovedOriginal": true,
+          "canonicalPcm": {
+            "format": "s16le",
+            "sampleRate": 44100,
+            "channels": 2,
+            "samplesPerChannel": 305280,
+            "bytes": 1221120,
+            "sha256": "ee865ca2104e3401f38b0ded9945c170fa49fac721361ccf8989265252028f03"
+          }
+        },
+        {
+          "id": "2-189",
+          "basename": "2-189.mp3",
+          "bytes": 353907,
+          "sha256": "48803263f60e37f25a1633a24edc1dadddc1c1462ccfe8c584edaa62644b7e38",
+          "humanApprovedOriginal": true,
+          "canonicalPcm": {
+            "format": "s16le",
+            "sampleRate": 44100,
+            "channels": 2,
+            "samplesPerChannel": 1300608,
+            "bytes": 5202432,
+            "sha256": "f1857d88561e7864592b0d6c96748ce0ddd265ae37d8da25cd0e210c2b2c9e3b"
+          }
+        }
+      ],
+      "junction": {
+        "samplePerChannel": 305280,
+        "timeS": 6.922448979591837,
+        "source": "actual independently decoded prefix samplecount"
+      },
+      "verification": {
+        "wholeDecodedPcmBytesExact": true,
+        "decodedPrefixExact": true,
+        "decodedSuffixExact": true,
+        "addedOrRemovedSamples": 0,
+        "decoderErrors": [],
+        "nativeBrowserDecode": null,
+        "heardByReviewer": null,
+        "heardByFaisalAsJoined": false
+      },
+      "generation": {
+        "tts": false,
+        "music": false,
+        "fade": false,
+        "trim": false,
+        "resample": false,
+        "tempo": false
+      },
+      "meaning": "Lossless relative to independently decoded canonical s16 PCM; original MP3 codec/frame and arbitrary native floating decoder identity are not asserted"
+    },
+    {
+      "id": "3-190",
+      "basename": "joined/3-190.flac",
+      "verseKeys": [
+        "3:190"
+      ],
+      "durationS": 20.140408163265306,
+      "bytes": 1335200,
+      "sha256": "8cc25bfa41f8e88be50ed4b2c4f3075edd8a752ce646d9f24938bf8a1dc6e4ad",
+      "includesBasmala": true,
+      "codec": "FLAC",
+      "canonicalPCM": {
+        "format": "s16le",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitsPerSample": 16,
+        "samplesPerChannel": 888192,
+        "bytes": 3552768,
+        "sha256": "6fdd99aea18c0b0f64a9c5b573a3536a22eb846766378ecc9a506b8510a3037f"
+      },
+      "inputs": [
+        {
+          "id": "basmala",
+          "basename": "basmala.mp3",
+          "bytes": 83069,
+          "sha256": "e09e009a94fc56764ac8ae94b6368232b36c18baa86e312d5ccd7e0f4f34c744",
+          "humanApprovedOriginal": true,
+          "canonicalPcm": {
+            "format": "s16le",
+            "sampleRate": 44100,
+            "channels": 2,
+            "samplesPerChannel": 305280,
+            "bytes": 1221120,
+            "sha256": "ee865ca2104e3401f38b0ded9945c170fa49fac721361ccf8989265252028f03"
+          }
+        },
+        {
+          "id": "3-190",
+          "basename": "3-190.mp3",
+          "bytes": 158616,
+          "sha256": "20090dacd48980cb41fc4fc8155e61fe3f07cc342adec63e43efb27781a88055",
+          "humanApprovedOriginal": true,
+          "canonicalPcm": {
+            "format": "s16le",
+            "sampleRate": 44100,
+            "channels": 2,
+            "samplesPerChannel": 582912,
+            "bytes": 2331648,
+            "sha256": "870c18ed9bfc973917ad20af87ed6ed98cc633fdf92763c80a00fd1b64730bea"
+          }
+        }
+      ],
+      "junction": {
+        "samplePerChannel": 305280,
+        "timeS": 6.922448979591837,
+        "source": "actual independently decoded prefix samplecount"
+      },
+      "verification": {
+        "wholeDecodedPcmBytesExact": true,
+        "decodedPrefixExact": true,
+        "decodedSuffixExact": true,
+        "addedOrRemovedSamples": 0,
+        "decoderErrors": [],
+        "nativeBrowserDecode": null,
+        "heardByReviewer": null,
+        "heardByFaisalAsJoined": false
+      },
+      "generation": {
+        "tts": false,
+        "music": false,
+        "fade": false,
+        "trim": false,
+        "resample": false,
+        "tempo": false
+      },
+      "meaning": "Lossless relative to independently decoded canonical s16 PCM; original MP3 codec/frame and arbitrary native floating decoder identity are not asserted"
+    },
+    {
+      "id": "6-97",
+      "basename": "joined/6-97.flac",
+      "verseKeys": [
+        "6:97"
+      ],
+      "durationS": 25.75673469387755,
+      "bytes": 1623214,
+      "sha256": "d7657f464e89fdf9898189395a5a396e52b6f16e93efc6a555758aaf3762e0ee",
+      "includesBasmala": true,
+      "codec": "FLAC",
+      "canonicalPCM": {
+        "format": "s16le",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitsPerSample": 16,
+        "samplesPerChannel": 1135872,
+        "bytes": 4543488,
+        "sha256": "2a416f5d94b68911f34d61e95cb65380c567179710f70438783f302cc4141b89"
+      },
+      "inputs": [
+        {
+          "id": "basmala",
+          "basename": "basmala.mp3",
+          "bytes": 83069,
+          "sha256": "e09e009a94fc56764ac8ae94b6368232b36c18baa86e312d5ccd7e0f4f34c744",
+          "humanApprovedOriginal": true,
+          "canonicalPcm": {
+            "format": "s16le",
+            "sampleRate": 44100,
+            "channels": 2,
+            "samplesPerChannel": 305280,
+            "bytes": 1221120,
+            "sha256": "ee865ca2104e3401f38b0ded9945c170fa49fac721361ccf8989265252028f03"
+          }
+        },
+        {
+          "id": "6-97",
+          "basename": "6-97.mp3",
+          "bytes": 226012,
+          "sha256": "b8bd0726da53ef6f36420c84397052314dd9e770bb96ec3df4df946650b476bd",
+          "humanApprovedOriginal": true,
+          "canonicalPcm": {
+            "format": "s16le",
+            "sampleRate": 44100,
+            "channels": 2,
+            "samplesPerChannel": 830592,
+            "bytes": 3322368,
+            "sha256": "b2c1f2a79c9ecf80cf7ee64c41eaaac477a83646324baf271fc27aa78dde1dfd"
+          }
+        }
+      ],
+      "junction": {
+        "samplePerChannel": 305280,
+        "timeS": 6.922448979591837,
+        "source": "actual independently decoded prefix samplecount"
+      },
+      "verification": {
+        "wholeDecodedPcmBytesExact": true,
+        "decodedPrefixExact": true,
+        "decodedSuffixExact": true,
+        "addedOrRemovedSamples": 0,
+        "decoderErrors": [],
+        "nativeBrowserDecode": null,
+        "heardByReviewer": null,
+        "heardByFaisalAsJoined": false
+      },
+      "generation": {
+        "tts": false,
+        "music": false,
+        "fade": false,
+        "trim": false,
+        "resample": false,
+        "tempo": false
+      },
+      "meaning": "Lossless relative to independently decoded canonical s16 PCM; original MP3 codec/frame and arbitrary native floating decoder identity are not asserted"
+    },
+    {
+      "id": "10-5",
+      "basename": "joined/10-5.flac",
+      "verseKeys": [
+        "10:5"
+      ],
+      "durationS": 39.94122448979592,
+      "bytes": 2517710,
+      "sha256": "8ff5fbb119bfdbf8ffd4baf54ce7fac69f4a4b40b9bff23aed2c3ad4fac3285f",
+      "includesBasmala": true,
+      "codec": "FLAC",
+      "canonicalPCM": {
+        "format": "s16le",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitsPerSample": 16,
+        "samplesPerChannel": 1761408,
+        "bytes": 7045632,
+        "sha256": "0b7c13d8e33ddeb3780cd9b00e4f2a74000171155a2eba466e0ade421a0a61ec"
+      },
+      "inputs": [
+        {
+          "id": "basmala",
+          "basename": "basmala.mp3",
+          "bytes": 83069,
+          "sha256": "e09e009a94fc56764ac8ae94b6368232b36c18baa86e312d5ccd7e0f4f34c744",
+          "humanApprovedOriginal": true,
+          "canonicalPcm": {
+            "format": "s16le",
+            "sampleRate": 44100,
+            "channels": 2,
+            "samplesPerChannel": 305280,
+            "bytes": 1221120,
+            "sha256": "ee865ca2104e3401f38b0ded9945c170fa49fac721361ccf8989265252028f03"
+          }
+        },
+        {
+          "id": "10-5",
+          "basename": "10-5.mp3",
+          "bytes": 396225,
+          "sha256": "f2129c9c6e07c9aa7b23f94d7e70745bf293b71c26cb5e8b93aea3766875b47c",
+          "humanApprovedOriginal": true,
+          "canonicalPcm": {
+            "format": "s16le",
+            "sampleRate": 44100,
+            "channels": 2,
+            "samplesPerChannel": 1456128,
+            "bytes": 5824512,
+            "sha256": "3d8286d47985553fdc1f81a786fda504886764e2c0a9f2201f13c73eac24d4b1"
+          }
+        }
+      ],
+      "junction": {
+        "samplePerChannel": 305280,
+        "timeS": 6.922448979591837,
+        "source": "actual independently decoded prefix samplecount"
+      },
+      "verification": {
+        "wholeDecodedPcmBytesExact": true,
+        "decodedPrefixExact": true,
+        "decodedSuffixExact": true,
+        "addedOrRemovedSamples": 0,
+        "decoderErrors": [],
+        "nativeBrowserDecode": null,
+        "heardByReviewer": null,
+        "heardByFaisalAsJoined": false
+      },
+      "generation": {
+        "tts": false,
+        "music": false,
+        "fade": false,
+        "trim": false,
+        "resample": false,
+        "tempo": false
+      },
+      "meaning": "Lossless relative to independently decoded canonical s16 PCM; original MP3 codec/frame and arbitrary native floating decoder identity are not asserted"
+    },
+    {
+      "id": "36-38",
+      "basename": "joined/36-38.flac",
+      "verseKeys": [
+        "36:38"
+      ],
+      "durationS": 19.304489795918368,
+      "bytes": 1288440,
+      "sha256": "1b7b5f80906b1e677020e9431a27ae0ff609981e0438afd9dfa72700fc9221cf",
+      "includesBasmala": true,
+      "codec": "FLAC",
+      "canonicalPCM": {
+        "format": "s16le",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitsPerSample": 16,
+        "samplesPerChannel": 851328,
+        "bytes": 3405312,
+        "sha256": "bcc613c29cd883aba417381b2510ab000114da8c9ef693ee8158538cfd2bd6ed"
+      },
+      "inputs": [
+        {
+          "id": "basmala",
+          "basename": "basmala.mp3",
+          "bytes": 83069,
+          "sha256": "e09e009a94fc56764ac8ae94b6368232b36c18baa86e312d5ccd7e0f4f34c744",
+          "humanApprovedOriginal": true,
+          "canonicalPcm": {
+            "format": "s16le",
+            "sampleRate": 44100,
+            "channels": 2,
+            "samplesPerChannel": 305280,
+            "bytes": 1221120,
+            "sha256": "ee865ca2104e3401f38b0ded9945c170fa49fac721361ccf8989265252028f03"
+          }
+        },
+        {
+          "id": "36-38",
+          "basename": "36-38.mp3",
+          "bytes": 148585,
+          "sha256": "1540ec07191798935887dd531ad7f39abe39642cc033b68b98d613ead9d5a989",
+          "humanApprovedOriginal": true,
+          "canonicalPcm": {
+            "format": "s16le",
+            "sampleRate": 44100,
+            "channels": 2,
+            "samplesPerChannel": 546048,
+            "bytes": 2184192,
+            "sha256": "56c46eafb57b4e567f411f748ee27d41e2bf8640484a57e07d9bbb3d3a74188b"
+          }
+        }
+      ],
+      "junction": {
+        "samplePerChannel": 305280,
+        "timeS": 6.922448979591837,
+        "source": "actual independently decoded prefix samplecount"
+      },
+      "verification": {
+        "wholeDecodedPcmBytesExact": true,
+        "decodedPrefixExact": true,
+        "decodedSuffixExact": true,
+        "addedOrRemovedSamples": 0,
+        "decoderErrors": [],
+        "nativeBrowserDecode": null,
+        "heardByReviewer": null,
+        "heardByFaisalAsJoined": false
+      },
+      "generation": {
+        "tts": false,
+        "music": false,
+        "fade": false,
+        "trim": false,
+        "resample": false,
+        "tempo": false
+      },
+      "meaning": "Lossless relative to independently decoded canonical s16 PCM; original MP3 codec/frame and arbitrary native floating decoder identity are not asserted"
+    },
+    {
+      "id": "36-39",
+      "basename": "joined/36-39.flac",
+      "verseKeys": [
+        "36:39"
+      ],
+      "durationS": 17.76326530612245,
+      "bytes": 1219071,
+      "sha256": "6d97be48682de5ba53ff9a0b5c10feb0de242ad7e1dfc3d68605dfbc62a66687",
+      "includesBasmala": true,
+      "codec": "FLAC",
+      "canonicalPCM": {
+        "format": "s16le",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitsPerSample": 16,
+        "samplesPerChannel": 783360,
+        "bytes": 3133440,
+        "sha256": "f1cf1be43c4a3b22d3b7b07e79b8db1e2f314b9a37389d2d0fadc69611eebe4e"
+      },
+      "inputs": [
+        {
+          "id": "basmala",
+          "basename": "basmala.mp3",
+          "bytes": 83069,
+          "sha256": "e09e009a94fc56764ac8ae94b6368232b36c18baa86e312d5ccd7e0f4f34c744",
+          "humanApprovedOriginal": true,
+          "canonicalPcm": {
+            "format": "s16le",
+            "sampleRate": 44100,
+            "channels": 2,
+            "samplesPerChannel": 305280,
+            "bytes": 1221120,
+            "sha256": "ee865ca2104e3401f38b0ded9945c170fa49fac721361ccf8989265252028f03"
+          }
+        },
+        {
+          "id": "36-39",
+          "basename": "36-39.mp3",
+          "bytes": 130090,
+          "sha256": "be8c3cd12b7b72c258bd8180689cb1791876506a923bb64aebd24c4969268614",
+          "humanApprovedOriginal": true,
+          "canonicalPcm": {
+            "format": "s16le",
+            "sampleRate": 44100,
+            "channels": 2,
+            "samplesPerChannel": 478080,
+            "bytes": 1912320,
+            "sha256": "908d278b5aa2eaea259269396d475256cbfc66b0e3b1a694a69b71054a40f61b"
+          }
+        }
+      ],
+      "junction": {
+        "samplePerChannel": 305280,
+        "timeS": 6.922448979591837,
+        "source": "actual independently decoded prefix samplecount"
+      },
+      "verification": {
+        "wholeDecodedPcmBytesExact": true,
+        "decodedPrefixExact": true,
+        "decodedSuffixExact": true,
+        "addedOrRemovedSamples": 0,
+        "decoderErrors": [],
+        "nativeBrowserDecode": null,
+        "heardByReviewer": null,
+        "heardByFaisalAsJoined": false
+      },
+      "generation": {
+        "tts": false,
+        "music": false,
+        "fade": false,
+        "trim": false,
+        "resample": false,
+        "tempo": false
+      },
+      "meaning": "Lossless relative to independently decoded canonical s16 PCM; original MP3 codec/frame and arbitrary native floating decoder identity are not asserted"
+    },
+    {
+      "id": "53-49",
+      "basename": "joined/53-49.flac",
+      "verseKeys": [
+        "53:49"
+      ],
+      "durationS": 12.852244897959183,
+      "bytes": 827398,
+      "sha256": "a80e18c1ac19cc43719d82ae49c2dca98dd6dd3b4c3e2ca2e6a1ba315a8b32c1",
+      "includesBasmala": true,
+      "codec": "FLAC",
+      "canonicalPCM": {
+        "format": "s16le",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitsPerSample": 16,
+        "samplesPerChannel": 566784,
+        "bytes": 2267136,
+        "sha256": "d3d634f256dff2c93028b26c5f33c100eedf0c78e157f25b2d1649b4f54f517b"
+      },
+      "inputs": [
+        {
+          "id": "basmala",
+          "basename": "basmala.mp3",
+          "bytes": 83069,
+          "sha256": "e09e009a94fc56764ac8ae94b6368232b36c18baa86e312d5ccd7e0f4f34c744",
+          "humanApprovedOriginal": true,
+          "canonicalPcm": {
+            "format": "s16le",
+            "sampleRate": 44100,
+            "channels": 2,
+            "samplesPerChannel": 305280,
+            "bytes": 1221120,
+            "sha256": "ee865ca2104e3401f38b0ded9945c170fa49fac721361ccf8989265252028f03"
+          }
+        },
+        {
+          "id": "53-49",
+          "basename": "53-49.mp3",
+          "bytes": 71158,
+          "sha256": "5fde47c717117a64d2776b8b83cd384711ba41dd9826753b8d154cafbcbf1390",
+          "humanApprovedOriginal": true,
+          "canonicalPcm": {
+            "format": "s16le",
+            "sampleRate": 44100,
+            "channels": 2,
+            "samplesPerChannel": 261504,
+            "bytes": 1046016,
+            "sha256": "3a8838177f4e6ce939c3c2bf8c1d3198af2d040e1ecd2ac91cc1993659b88045"
+          }
+        }
+      ],
+      "junction": {
+        "samplePerChannel": 305280,
+        "timeS": 6.922448979591837,
+        "source": "actual independently decoded prefix samplecount"
+      },
+      "verification": {
+        "wholeDecodedPcmBytesExact": true,
+        "decodedPrefixExact": true,
+        "decodedSuffixExact": true,
+        "addedOrRemovedSamples": 0,
+        "decoderErrors": [],
+        "nativeBrowserDecode": null,
+        "heardByReviewer": null,
+        "heardByFaisalAsJoined": false
+      },
+      "generation": {
+        "tts": false,
+        "music": false,
+        "fade": false,
+        "trim": false,
+        "resample": false,
+        "tempo": false
+      },
+      "meaning": "Lossless relative to independently decoded canonical s16 PCM; original MP3 codec/frame and arbitrary native floating decoder identity are not asserted"
+    },
+    {
+      "id": "56-75",
+      "basename": "joined/56-75-56-76.flac",
+      "verseKeys": [
+        "56:75",
+        "56:76"
+      ],
+      "durationS": 27.062857142857144,
+      "bytes": 1802200,
+      "sha256": "2d93f3a2a2fcab230a9f39cd154ebc9ad3f05389836ae87c0cb8ed03f334c3f2",
+      "includesBasmala": true,
+      "codec": "FLAC",
+      "canonicalPCM": {
+        "format": "s16le",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitsPerSample": 16,
+        "samplesPerChannel": 1193472,
+        "bytes": 4773888,
+        "sha256": "474a7fc47f8ae7863840f4b035c91d9bd1cefd0d501c4f62a282123326cb7b91"
+      },
+      "inputs": [
+        {
+          "id": "basmala",
+          "basename": "basmala.mp3",
+          "bytes": 83069,
+          "sha256": "e09e009a94fc56764ac8ae94b6368232b36c18baa86e312d5ccd7e0f4f34c744",
+          "humanApprovedOriginal": true,
+          "canonicalPcm": {
+            "format": "s16le",
+            "sampleRate": 44100,
+            "channels": 2,
+            "samplesPerChannel": 305280,
+            "bytes": 1221120,
+            "sha256": "ee865ca2104e3401f38b0ded9945c170fa49fac721361ccf8989265252028f03"
+          }
+        },
+        {
+          "id": "56-75",
+          "basename": "56-75-56-76.mp3",
+          "bytes": 241685,
+          "sha256": "00cdc5335a76c8ae1e7e2bce766e39ca83471f6a0fdef2dee7f79cac00a2995a",
+          "humanApprovedOriginal": true,
+          "canonicalPcm": {
+            "format": "s16le",
+            "sampleRate": 44100,
+            "channels": 2,
+            "samplesPerChannel": 888192,
+            "bytes": 3552768,
+            "sha256": "400413aa67f88d3402ed38c3bf9665ee8ff84e2f4fb5378f1c4764ead1dfda22"
+          }
+        }
+      ],
+      "junction": {
+        "samplePerChannel": 305280,
+        "timeS": 6.922448979591837,
+        "source": "actual independently decoded prefix samplecount"
+      },
+      "verification": {
+        "wholeDecodedPcmBytesExact": true,
+        "decodedPrefixExact": true,
+        "decodedSuffixExact": true,
+        "addedOrRemovedSamples": 0,
+        "decoderErrors": [],
+        "nativeBrowserDecode": null,
+        "heardByReviewer": null,
+        "heardByFaisalAsJoined": false
+      },
+      "generation": {
+        "tts": false,
+        "music": false,
+        "fade": false,
+        "trim": false,
+        "resample": false,
+        "tempo": false
+      },
+      "meaning": "Lossless relative to independently decoded canonical s16 PCM; original MP3 codec/frame and arbitrary native floating decoder identity are not asserted"
+    },
+    {
+      "id": "67-5",
+      "basename": "joined/67-5.flac",
+      "verseKeys": [
+        "67:5"
+      ],
+      "durationS": 29.048163265306123,
+      "bytes": 1966553,
+      "sha256": "457ce37b19ed35c80bae4948eaa5b4fb7f2f73662a798c3bfced885aedca6105",
+      "includesBasmala": true,
+      "codec": "FLAC",
+      "canonicalPCM": {
+        "format": "s16le",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitsPerSample": 16,
+        "samplesPerChannel": 1281024,
+        "bytes": 5124096,
+        "sha256": "68c69476d8d9662c12558e20cff186d12215c54c8f58b1cadc8ca786acb0f918"
+      },
+      "inputs": [
+        {
+          "id": "basmala",
+          "basename": "basmala.mp3",
+          "bytes": 83069,
+          "sha256": "e09e009a94fc56764ac8ae94b6368232b36c18baa86e312d5ccd7e0f4f34c744",
+          "humanApprovedOriginal": true,
+          "canonicalPcm": {
+            "format": "s16le",
+            "sampleRate": 44100,
+            "channels": 2,
+            "samplesPerChannel": 305280,
+            "bytes": 1221120,
+            "sha256": "ee865ca2104e3401f38b0ded9945c170fa49fac721361ccf8989265252028f03"
+          }
+        },
+        {
+          "id": "67-5",
+          "basename": "67-5.mp3",
+          "bytes": 265509,
+          "sha256": "ba38bc2ef4fe7bedb77dd8af6248c0441231d62a05b35ec86d24b1bde925b2b4",
+          "humanApprovedOriginal": true,
+          "canonicalPcm": {
+            "format": "s16le",
+            "sampleRate": 44100,
+            "channels": 2,
+            "samplesPerChannel": 975744,
+            "bytes": 3902976,
+            "sha256": "ad6e4dda83c4910df7bd4ea9db69dda55d7ab83352c8f566df16afb016eb23db"
+          }
+        }
+      ],
+      "junction": {
+        "samplePerChannel": 305280,
+        "timeS": 6.922448979591837,
+        "source": "actual independently decoded prefix samplecount"
+      },
+      "verification": {
+        "wholeDecodedPcmBytesExact": true,
+        "decodedPrefixExact": true,
+        "decodedSuffixExact": true,
+        "addedOrRemovedSamples": 0,
+        "decoderErrors": [],
+        "nativeBrowserDecode": null,
+        "heardByReviewer": null,
+        "heardByFaisalAsJoined": false
+      },
+      "generation": {
+        "tts": false,
+        "music": false,
+        "fade": false,
+        "trim": false,
+        "resample": false,
+        "tempo": false
+      },
+      "meaning": "Lossless relative to independently decoded canonical s16 PCM; original MP3 codec/frame and arbitrary native floating decoder identity are not asserted"
+    },
+    {
+      "id": "81-15",
+      "basename": "joined/81-15-81-16.flac",
+      "verseKeys": [
+        "81:15",
+        "81:16"
+      ],
+      "durationS": 18.677551020408163,
+      "bytes": 1190788,
+      "sha256": "0f2800b1bece9c1f5dff5533c99839eb37ffd60b9842bb4d59e24fa09fa7a5bc",
+      "includesBasmala": true,
+      "codec": "FLAC",
+      "canonicalPCM": {
+        "format": "s16le",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitsPerSample": 16,
+        "samplesPerChannel": 823680,
+        "bytes": 3294720,
+        "sha256": "ccfee30db50bfbad5da39b36dd38150a82cfbd06db2af0eee2add4b78ef5ded8"
+      },
+      "inputs": [
+        {
+          "id": "basmala",
+          "basename": "basmala.mp3",
+          "bytes": 83069,
+          "sha256": "e09e009a94fc56764ac8ae94b6368232b36c18baa86e312d5ccd7e0f4f34c744",
+          "humanApprovedOriginal": true,
+          "canonicalPcm": {
+            "format": "s16le",
+            "sampleRate": 44100,
+            "channels": 2,
+            "samplesPerChannel": 305280,
+            "bytes": 1221120,
+            "sha256": "ee865ca2104e3401f38b0ded9945c170fa49fac721361ccf8989265252028f03"
+          }
+        },
+        {
+          "id": "81-15",
+          "basename": "81-15-81-16.mp3",
+          "bytes": 141061,
+          "sha256": "c7854ac4cc55cbdce716c3fc27048eeca0ac1aeb9d575a975db86fd068506659",
+          "humanApprovedOriginal": true,
+          "canonicalPcm": {
+            "format": "s16le",
+            "sampleRate": 44100,
+            "channels": 2,
+            "samplesPerChannel": 518400,
+            "bytes": 2073600,
+            "sha256": "093c054d92ae9bcac896a85a6389b493f7b8026362b1ae0446702e2ead9aa334"
+          }
+        }
+      ],
+      "junction": {
+        "samplePerChannel": 305280,
+        "timeS": 6.922448979591837,
+        "source": "actual independently decoded prefix samplecount"
+      },
+      "verification": {
+        "wholeDecodedPcmBytesExact": true,
+        "decodedPrefixExact": true,
+        "decodedSuffixExact": true,
+        "addedOrRemovedSamples": 0,
+        "decoderErrors": [],
+        "nativeBrowserDecode": null,
+        "heardByReviewer": null,
+        "heardByFaisalAsJoined": false
+      },
+      "generation": {
+        "tts": false,
+        "music": false,
+        "fade": false,
+        "trim": false,
+        "resample": false,
+        "tempo": false
+      },
+      "meaning": "Lossless relative to independently decoded canonical s16 PCM; original MP3 codec/frame and arbitrary native floating decoder identity are not asserted"
+    }
+  ],
+  "originalMp3FilesUnchanged": true,
+  "originalMP3CodecPreservationClaim": false,
+  "newGeneration": false,
+  "heardJoinedClaim": false,
+  "operationDate": "2026-10-13",
+  "requestedByFaisal": "Basmala connected directly to the approved verses as one playback file; no generated recitation."
+}

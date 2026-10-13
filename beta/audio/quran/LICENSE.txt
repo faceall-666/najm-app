@@ -1,9 +1,16 @@
 Maher al-Muaiqly — King Fahd Glorious Quran Printing Complex recording
 
-Human recitation, original MP3 96 kbps / 44.1 kHz / stereo, without transcoding.
+Human recitation. The original MP3 excerpts remain 96 kbps / 44.1 kHz / stereo, without transcoding.
 Faisal accepted the twelve verse excerpts on 11 October 2026 and directly requested
 the two joined pairs. He separately listened to and approved the Basmala twice.
 The joined pairs retain all original frames and pauses between the accepted excerpts.
+
+On 13 October Faisal requested that the Basmala and verses play as one connected file.
+The ten playback files in joined/ use FLAC, preserving the concatenated independently
+decoded 16-bit / 44.1 kHz / stereo PCM without added or removed samples, fades or resampling.
+This file conversion adds no generated speech and does not improve the original MP3 quality.
+The approved MP3 files and their original provenance remain unchanged. Exact connected-file
+hashes and decoded-sample verification are recorded separately in joined-provenance.json.
 
 Official source package:
 https://download.qurancomplex.gov.sa/new-sounds/muaiqly-08/hafs/sura-12-1-2020.zip
@@ -31,4 +38,5 @@ proofs and human approval status are in provenance.json; final file hashes are a
 in SHA256SUMS.
 
 البسملة والتلاوة بصوت بشري من تسجيل مجمع الملك فهد، للاستماع المجاني.
-لا يدّعي نجم ملكية التسجيل أو حقًا حصريًا فيه. لم تُعد ترميز الملفات ولم يُرفع معدلها.
+لا يدّعي نجم ملكية التسجيل أو حقًا حصريًا فيه. ملفات MP3 الأصلية محفوظة دون تغيير.
+نسخ الاستماع المتصلة بصيغة FLAC تحفظ عينات الصوت المفكوكة دون فقد إضافي؛ لا توليد جديد ولا رفع لجودة المصدر.
