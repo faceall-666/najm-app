@@ -1,0 +1,14 @@
+The Metropolitan Museum of Art Open Access images, CC0 / Public Domain.
+Source approval NAJM-CIV-DOCUMENT-20261012-ROOT-01 (12 October 2026): exact Collection API records isPublicDomain=true.
+
+321978 / 86.11.354: Cuneiform tablet: almanac for 31/32 CE. Purchase, 1886.
+https://www.metmuseum.org/art/collection/search/321978
+https://images.metmuseum.org/CRDImages/an/original/DP-15732-005.jpg
+
+544566 / 48.105.52: Astronomical Ceiling. Charles K. Wilkinson, tempera-on-paper facsimile of Senenmut TT353. Rogers Fund, 1948. Original ca.1473–1458 BCE refers to the ancient depicted ceiling, not the modern facsimile.
+https://www.metmuseum.org/art/collection/search/544566
+https://images.metmuseum.org/CRDImages/eg/original/48.105.52_EGDP012289.jpg
+
+https://www.metmuseum.org/policies/image-resources
+https://www.metmuseum.org/hubs/open-access
+Pure proportional resize (max1600px), WebP90 encoding. No crop of distributed image, generated lettering, restoration or image substitution. Original bytes/SHA and resized bytes/SHA are in provenance.json. Images excluded from installation-time offline set and fetched only after an explicit document-open action.

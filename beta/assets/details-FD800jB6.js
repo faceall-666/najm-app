@@ -1,0 +1,1 @@
+import{b as n,c as u}from"./culture-3siV8igT.js";import{b as a}from"./narration-DQBO6QtK.js";function b(s){const o=()=>{const t=s.getSnapshot();t.id&&t.lang&&!a(t.id,t.lang,u())&&s.stop()},r=n(o),c=s.subscribe(o);return o(),()=>{r(),c()}}export{b as w};

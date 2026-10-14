@@ -1,0 +1,58 @@
+{
+  "sourceApproval": "NAJM-CIV-DOCUMENT-20261012-ROOT-01",
+  "approvalDate": "2026-10-12",
+  "license": "CC0 / Public Domain",
+  "rightsPolicy": "https://www.metmuseum.org/policies/image-resources",
+  "openAccess": "https://www.metmuseum.org/hubs/open-access",
+  "limits": "Exact Met API isPublicDomain=true records; no BM/ETANA NC scans or rejected321621. Runtime/UI inspection separately pending. Metadata labels late almanac and modern facsimile; no translation of ancient signs.",
+  "assets": [
+    {
+      "id": 321978,
+      "originalSHA256": "33d0fec123b3de8a905a810e675b42c10a20dac1d9db21c1bf04316d9f061a87",
+      "originalBytes": 2113335,
+      "asset": "public/media/journeys/civil/met-321978.webp",
+      "sha256": "a96c5edd7cf2d253e072e7b3010cc9842f565b875cebdda7d79a461452de4224",
+      "bytes": 202064,
+      "width": 1600,
+      "height": 1200,
+      "treatment": "Pure proportional resize to <=1600px, WebP90; no crop/restoration/generation",
+      "sourceReview": "NAJM-CIV-DOCUMENT-20261012-ROOT-01",
+      "sourceURL": "https://www.metmuseum.org/art/collection/search/321978",
+      "originalURL": "https://images.metmuseum.org/CRDImages/an/original/DP-15732-005.jpg",
+      "apiURL": "https://collectionapi.metmuseum.org/public/collection/v1/objects/321978",
+      "isPublicDomain": true,
+      "accession": "86.11.354",
+      "catalogueDate": "ca. 31\u20132 CE",
+      "credit": "Purchase, 1886",
+      "artist": ""
+    },
+    {
+      "id": 544566,
+      "originalSHA256": "daf9a686aff35e6aaf69c4c99367ad25d0080cd55a7c8eb04114c820ccacc53d",
+      "originalBytes": 1677931,
+      "asset": "public/media/journeys/civil/met-544566.webp",
+      "sha256": "5680b1bbedb26b2a8e3134f692606bc54507bce9d625139ea5e3b158f1e0774a",
+      "bytes": 262478,
+      "width": 1066,
+      "height": 1600,
+      "treatment": "Pure proportional resize to <=1600px, WebP90; no crop/restoration/generation",
+      "sourceReview": "NAJM-CIV-DOCUMENT-20261012-ROOT-01",
+      "sourceURL": "https://www.metmuseum.org/art/collection/search/544566",
+      "originalURL": "https://images.metmuseum.org/CRDImages/eg/original/48.105.52_EGDP012289.jpg",
+      "apiURL": "https://collectionapi.metmuseum.org/public/collection/v1/objects/544566",
+      "isPublicDomain": true,
+      "accession": "48.105.52",
+      "catalogueDate": "ca. 1473\u20131458 BCE",
+      "credit": "Rogers Fund, 1948",
+      "artist": "Charles K. Wilkinson"
+    }
+  ],
+  "detailSourceApproval": "NAJM-CIV-MET-DETAIL-20261012-ROOT-01",
+  "egyptLocator": [
+    0.14,
+    0.62,
+    0.69,
+    0.13
+  ],
+  "detailLimit": "Lower circle group attributed to months by Met description; no individual-name translation/deity identification. Runtime fit/inspection still require browser acceptance."
+}
