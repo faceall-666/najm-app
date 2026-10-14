@@ -1,0 +1,1 @@
+const e=["new","waxing-crescent","first-quarter","waxing-gibbous","full","waning-gibbous","last-quarter","waning-crescent"];function s(a){const n=(a%360+360)%360,t=6;return n<t||n>360-t?0:n<90-t?1:n<90+t?2:n<180-t?3:n<180+t?4:n<270-t?5:n<270+t?6:7}function o(a){return e[s(a)]}export{o as a,s as m};
