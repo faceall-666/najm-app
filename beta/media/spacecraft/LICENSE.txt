@@ -41,3 +41,16 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+Tiangong illustration (NOT an in-flight photograph)
+File: tiangong-render-20221103.jpg, 2160x2160, original JPEG unchanged.
+Creator: Shujianyang, own work; depiction dated 2022-11-03 (completed maximum Phase1 configuration).
+Source: https://commons.wikimedia.org/wiki/File:Chinese_Tiangong_Space_Station.jpg
+Original: https://upload.wikimedia.org/wikipedia/commons/2/25/Chinese_Tiangong_Space_Station.jpg
+Retrieved 2026-10-15; revision 2026-07-01T06:41Z.
+License: Creative Commons Attribution-ShareAlike4.0 International
+https://creativecommons.org/licenses/by-sa/4.0/
+Attribution and a license link appear in the image caption. No endorsement is implied.
+No pixel modifications. The illustration is not a claim of the station's current docked configuration.
+Any future adaptation of this image must retain attribution, identify changes and be distributed under CC BY-SA4.0 or a compatible license.

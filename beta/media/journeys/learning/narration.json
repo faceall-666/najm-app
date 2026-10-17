@@ -1,0 +1,1322 @@
+{
+  "schema": 1,
+  "recordings": [
+    {
+      "journey": "arab-stars",
+      "chapter": "arab-suhail",
+      "lang": "ar",
+      "scriptSha256": "baf149e9844aa34855e34ddf32eaf03339c0387b2d0bcb19d45bb094df395634",
+      "src": "media/journeys/learning/arab-stars/arab-suhail/ar-52826e02dbde.m4a",
+      "sha256": "52826e02dbdebb29a85464773bbdb2115e8c69dcefb901df2d99b2ab1e78fd16",
+      "bytes": 392198,
+      "durationS": 19.28,
+      "span": {
+        "startS": 0,
+        "endS": 19.28
+      },
+      "cues": [
+        {
+          "from": 0,
+          "to": 4.64,
+          "text": "هَذَا سُهَيْلٌ، نَجْمٌ جَنُوبِيٌّ عَرَفَهُ الْعَرَبُ."
+        },
+        {
+          "from": 4.72,
+          "to": 8.24,
+          "text": "وَاسْمُهُ كَانُوبُوسُ مِنَ\nالتُّرَاثِ الْيُونَانِيِّ."
+        },
+        {
+          "from": 8.28,
+          "to": 13.36,
+          "text": "سَمَاءٌ وَاحِدَةٌ تَحْمِلُ\nذَاكِرَةَ ثَقَافَاتٍ مُخْتَلِفَةٍ."
+        },
+        {
+          "from": 13.44,
+          "to": 16.04,
+          "text": "الْمِسِ النَّجْمَ لِتَكْتَشِفَ مَوْضِعَهُ؛"
+        },
+        {
+          "from": 16.32,
+          "to": 19.28,
+          "text": "فَارْتِفَاعُهُ يَتَغَيَّرُ مَعَ مَكَانِكَ."
+        }
+      ],
+      "approval": {
+        "by": "director",
+        "at": "2026-10-15T19:46:04.311277Z",
+        "voiceLabel": "my voice",
+        "authorization": "owner-delegated-2026-10-15-26-clips",
+        "evidence": "docs/evidence/learning-audio-20261015/review/arab-stars/arab-suhail/ar.json"
+      },
+      "provenance": {
+        "provider": "ElevenLabs",
+        "model": "eleven_v4"
+      }
+    },
+    {
+      "journey": "arab-stars",
+      "chapter": "arab-suhail",
+      "lang": "en",
+      "scriptSha256": "6cde035c3d64908f450a74346b8d3bcfade1e7a8c7e02a06816a8ce224e69102",
+      "src": "media/journeys/learning/arab-stars/arab-suhail/en-a6b918cdef6f.m4a",
+      "sha256": "a6b918cdef6fae3c8f2fc9120d47b91be058367c05d22d179c7a80bae324201f",
+      "bytes": 386536,
+      "durationS": 18.56,
+      "span": {
+        "startS": 0,
+        "endS": 18.56
+      },
+      "cues": [
+        {
+          "from": 0,
+          "to": 4.56,
+          "text": "This is Suhail, a southern star\nfamiliar to Arab observers."
+        },
+        {
+          "from": 5.04,
+          "to": 8.56,
+          "text": "Its name Canopus comes\nfrom Greek tradition."
+        },
+        {
+          "from": 8.88,
+          "to": 12.36,
+          "text": "One sky holds the\nmemories of many cultures."
+        },
+        {
+          "from": 12.64,
+          "to": 16.56,
+          "text": "Touch the star to find its\ncalculated position: its height"
+        },
+        {
+          "from": 16.8,
+          "to": 18.56,
+          "text": "changes with your location."
+        }
+      ],
+      "approval": {
+        "by": "director",
+        "at": "2026-10-15T19:46:04.311277Z",
+        "voiceLabel": "my voice",
+        "authorization": "owner-delegated-2026-10-15-26-clips",
+        "evidence": "docs/evidence/learning-audio-20261015/review/arab-stars/arab-suhail/en.json"
+      },
+      "provenance": {
+        "provider": "ElevenLabs",
+        "model": "eleven_v4"
+      }
+    },
+    {
+      "journey": "arab-stars",
+      "chapter": "arab-dabaran",
+      "lang": "ar",
+      "scriptSha256": "ea9eac7dbf32c994ebec78c0f7a6229fe7a975479d78a77681ff33fe87ca6012",
+      "src": "media/journeys/learning/arab-stars/arab-dabaran/ar-743ab8d44807.m4a",
+      "sha256": "743ab8d44807f71db4710fc04d0b29679aa4d1a569a9ceffa9959666e9ad1d85",
+      "bytes": 384454,
+      "durationS": 19.12,
+      "span": {
+        "startS": 0,
+        "endS": 19.12
+      },
+      "cues": [
+        {
+          "from": 0,
+          "to": 1.36,
+          "text": "تَأَمَّلِ الدَّبَرَانَ؛"
+        },
+        {
+          "from": 1.64,
+          "to": 6.64,
+          "text": "سُمِّيَ لِأَنَّهُ يَتْبَعُ الثُّرَيَّا\nفِي مَسِيرِ النُّجُومِ اللَّيْلِيِّ."
+        },
+        {
+          "from": 6.72,
+          "to": 11.68,
+          "text": "وَمِنِ اسْمِهِ الْعَرَبِيِّ وَصَلَ إِلَى\nالْعَالَمِ اسْمُ أَلْدِبَارَانَ."
+        },
+        {
+          "from": 11.76,
+          "to": 14.96,
+          "text": "الْمِسْهُ وَقَارِنْ مَوْضِعَهُ بِالثُّرَيَّا؛"
+        },
+        {
+          "from": 15.2,
+          "to": 19.12,
+          "text": "قُرْبُهُمَا فِي الصُّورَةِ لَا\nيَعْنِي قُرْبَهُمَا فِي الْفَضَاءِ."
+        }
+      ],
+      "approval": {
+        "by": "director",
+        "at": "2026-10-15T19:46:04.311277Z",
+        "voiceLabel": "my voice",
+        "authorization": "owner-delegated-2026-10-15-26-clips",
+        "evidence": "docs/evidence/learning-audio-20261015/review/arab-stars/arab-dabaran/ar.json"
+      },
+      "provenance": {
+        "provider": "ElevenLabs",
+        "model": "eleven_v4"
+      }
+    },
+    {
+      "journey": "arab-stars",
+      "chapter": "arab-dabaran",
+      "lang": "en",
+      "scriptSha256": "0b61a5f08ff41ada62f3e217381767b18e47f9f47914bedbbb8186dfc26a3f89",
+      "src": "media/journeys/learning/arab-stars/arab-dabaran/en-0e2ef51d489e.m4a",
+      "sha256": "0e2ef51d489e0cb196e9670692686d70028a82e9519bc60aec1072fea4334cd9",
+      "bytes": 396204,
+      "durationS": 19.36,
+      "span": {
+        "startS": 0,
+        "endS": 19.36
+      },
+      "cues": [
+        {
+          "from": 0,
+          "to": 2.48,
+          "text": "Meet Aldebaran, the follower."
+        },
+        {
+          "from": 3.04,
+          "to": 6.68,
+          "text": "Its Arabic name describes how it\nfollows the Pleiades across the"
+        },
+        {
+          "from": 6.72,
+          "to": 11.12,
+          "text": "night sky. That name travelled\ninto modern star catalogues."
+        },
+        {
+          "from": 11.76,
+          "to": 15.36,
+          "text": "Touch the star and compare\nits position with the cluster:"
+        },
+        {
+          "from": 15.44,
+          "to": 18.56,
+          "text": "appearing close together does\nnot mean they are neighbours in"
+        },
+        {
+          "from": 18.64,
+          "to": 19.36,
+          "text": "space."
+        }
+      ],
+      "approval": {
+        "by": "director",
+        "at": "2026-10-15T19:46:04.311277Z",
+        "voiceLabel": "my voice",
+        "authorization": "owner-delegated-2026-10-15-26-clips",
+        "evidence": "docs/evidence/learning-audio-20261015/review/arab-stars/arab-dabaran/en.json"
+      },
+      "provenance": {
+        "provider": "ElevenLabs",
+        "model": "eleven_v4"
+      }
+    },
+    {
+      "journey": "arab-stars",
+      "chapter": "arab-shira",
+      "lang": "ar",
+      "scriptSha256": "526ff88b2f025e23f6ea2d4fee34adbe0ab7989b265c694027392e6873c75825",
+      "src": "media/journeys/learning/arab-stars/arab-shira/ar-aea007c2f3b4.m4a",
+      "sha256": "aea007c2f3b445caf77ca61148499e299c964754146c20797780fe788867edf3",
+      "bytes": 379325,
+      "durationS": 18.8,
+      "span": {
+        "startS": 0,
+        "endS": 18.8
+      },
+      "cues": [
+        {
+          "from": 0,
+          "to": 5.12,
+          "text": "هَذِهِ الشِّعْرَى الْيَمَانِيَّةُ،\nأَلْمَعُ نُجُومِ سَمَاءِ اللَّيْلِ."
+        },
+        {
+          "from": 5.16,
+          "to": 8.64,
+          "text": "عَرَفَهَا الْعَرَبُ أَيْضًا بِالشِّعْرَى الْعَبُورِ."
+        },
+        {
+          "from": 8.68,
+          "to": 12.4,
+          "text": "أَمَّا سِيرْيُوسُ فَاسْمٌ يُونَانِيٌّ قَدِيمٌ."
+        },
+        {
+          "from": 12.48,
+          "to": 13.4,
+          "text": "الْمِسْهَا؛"
+        },
+        {
+          "from": 13.6,
+          "to": 18.8,
+          "text": "فَاخْتِلَافُ الْأَسْمَاءِ يَكْشِفُ تَعَدُّدَ\nالْحِكَايَاتِ حَوْلَ النَّجْمِ نَفْسِهِ."
+        }
+      ],
+      "approval": {
+        "by": "director",
+        "at": "2026-10-15T19:46:04.311277Z",
+        "voiceLabel": "my voice",
+        "authorization": "owner-delegated-2026-10-15-26-clips",
+        "evidence": "docs/evidence/learning-audio-20261015/review/arab-stars/arab-shira/ar.json"
+      },
+      "provenance": {
+        "provider": "ElevenLabs",
+        "model": "eleven_v4"
+      }
+    },
+    {
+      "journey": "arab-stars",
+      "chapter": "arab-shira",
+      "lang": "en",
+      "scriptSha256": "9170a68f6a0686177dc640af2da6894c1e26d7f9ac632256157c897fdffde7a1",
+      "src": "media/journeys/learning/arab-stars/arab-shira/en-55593303a65e.m4a",
+      "sha256": "55593303a65e8af3d2bf4e13309b231f1a2fe408b15fbf47af7dfb5a7b6d37cc",
+      "bytes": 370330,
+      "durationS": 18.32,
+      "span": {
+        "startS": 0,
+        "endS": 18.32
+      },
+      "cues": [
+        {
+          "from": 0,
+          "to": 4.32,
+          "text": "This is al-Shiʿra al-Yamaniya,\nthe brightest star in our night"
+        },
+        {
+          "from": 4.4,
+          "to": 8.96,
+          "text": "sky. Arab observers also\nknew it as al-Shiʿra al-Abur."
+        },
+        {
+          "from": 9.44,
+          "to": 12,
+          "text": "Sirius is an ancient Greek name."
+        },
+        {
+          "from": 12.32,
+          "to": 16.4,
+          "text": "Touch the star: its different\nnames preserve different stories"
+        },
+        {
+          "from": 16.52,
+          "to": 18.32,
+          "text": "about the same point of light."
+        }
+      ],
+      "approval": {
+        "by": "director",
+        "at": "2026-10-15T19:46:04.311277Z",
+        "voiceLabel": "my voice",
+        "authorization": "owner-delegated-2026-10-15-26-clips",
+        "evidence": "docs/evidence/learning-audio-20261015/review/arab-stars/arab-shira/en.json"
+      },
+      "provenance": {
+        "provider": "ElevenLabs",
+        "model": "eleven_v4"
+      }
+    },
+    {
+      "journey": "arab-stars",
+      "chapter": "arab-thurayya",
+      "lang": "ar",
+      "scriptSha256": "1fb15106f1b17ce23c67cf0d52359f9bfca6aef53e75051ba888d7d28246b472",
+      "src": "media/journeys/learning/arab-stars/arab-thurayya/ar-e75838c3fc20.m4a",
+      "sha256": "e75838c3fc204403f9515df5e45e0de93bc8ba0d8766fe7af40527f1f82978d9",
+      "bytes": 428764,
+      "durationS": 21.68,
+      "span": {
+        "startS": 0,
+        "endS": 21.68
+      },
+      "cues": [
+        {
+          "from": 0,
+          "to": 5.28,
+          "text": "الثُّرَيَّا لَيْسَتْ نَجْمًا\nوَاحِدًا، بَلْ عُنْقُودٌ نَجْمِيٌّ."
+        },
+        {
+          "from": 5.6,
+          "to": 12.28,
+          "text": "تُظْهِرُ الْعَيْنُ بَعْضَ نُجُومِهِ، وَيَخْتَلِفُ\nمَا نَرَاهُ بِاخْتِلَافِ ظُرُوفِ الرَّصْدِ."
+        },
+        {
+          "from": 12.56,
+          "to": 20.4,
+          "text": "الْمِسْ أَلْسِيُونِي، أَحَدَ نُجُومِهِ السَّاطِعَةِ،\nوَتَأَمَّلْ كَيْفَ اجْتَمَعَتْ نُجُومٌ كَثِيرَةٌ تَحْتَ"
+        },
+        {
+          "from": 20.48,
+          "to": 21.68,
+          "text": "اسْمٍ وَاحِدٍ."
+        }
+      ],
+      "approval": {
+        "by": "director",
+        "at": "2026-10-15T19:46:04.311277Z",
+        "voiceLabel": "my voice",
+        "authorization": "owner-delegated-2026-10-15-26-clips",
+        "evidence": "docs/evidence/learning-audio-20261015/review/arab-stars/arab-thurayya/ar.json"
+      },
+      "provenance": {
+        "provider": "ElevenLabs",
+        "model": "eleven_v4"
+      }
+    },
+    {
+      "journey": "arab-stars",
+      "chapter": "arab-thurayya",
+      "lang": "en",
+      "scriptSha256": "ccc2af208859464a0e51f3e1ec1186ba6e22d5adff58a54a0f6711c086b2acd2",
+      "src": "media/journeys/learning/arab-stars/arab-thurayya/en-884ccd8eb7ae.m4a",
+      "sha256": "884ccd8eb7aecfbae438fb3244f95457a7935d41faf619a2858ef3c30f41444c",
+      "bytes": 348691,
+      "durationS": 17.04,
+      "span": {
+        "startS": 0,
+        "endS": 17.04
+      },
+      "cues": [
+        {
+          "from": 0,
+          "to": 3.76,
+          "text": "The Pleiades, al-Thurayya,\nis a star cluster."
+        },
+        {
+          "from": 4.4,
+          "to": 8.16,
+          "text": "Our eyes pick out some of its\nmembers, with the number depending"
+        },
+        {
+          "from": 8.24,
+          "to": 13.12,
+          "text": "on viewing conditions. Touch\nAlcyone, one of its bright stars,"
+        },
+        {
+          "from": 13.2,
+          "to": 17.04,
+          "text": "and discover how many stars\ncan share one familiar name."
+        }
+      ],
+      "approval": {
+        "by": "director",
+        "at": "2026-10-15T19:46:04.311277Z",
+        "voiceLabel": "my voice",
+        "authorization": "owner-delegated-2026-10-15-26-clips",
+        "evidence": "docs/evidence/learning-audio-20261015/review/arab-stars/arab-thurayya/en.json"
+      },
+      "provenance": {
+        "provider": "ElevenLabs",
+        "model": "eleven_v4"
+      }
+    },
+    {
+      "journey": "arab-stars",
+      "chapter": "arab-jawza",
+      "lang": "ar",
+      "scriptSha256": "2e78a2e18525a3c1ce1196b7482febb189d08da6435433b882707b4490a8ca0a",
+      "src": "media/journeys/learning/arab-stars/arab-jawza/ar-491bb1d4db5c.m4a",
+      "sha256": "491bb1d4db5ce3ef9ff8c16f1ff2fa1e28d7ef01950b39dde0fd31f34cb2e3ed",
+      "bytes": 430447,
+      "durationS": 21.44,
+      "span": {
+        "startS": 0,
+        "endS": 21.44
+      },
+      "cues": [
+        {
+          "from": 0,
+          "to": 4.08,
+          "text": "فِي صُورَةِ الْجَبَّارِ نَقْرَأُ أَثَرَ الْجَوْزَاءِ:"
+        },
+        {
+          "from": 4.24,
+          "to": 6.44,
+          "text": "رِجْلَهَا وَيَدَهَا."
+        },
+        {
+          "from": 6.8,
+          "to": 13.72,
+          "text": "عَبَرَتْ أَسْمَاءٌ عَرَبِيَّةٌ كُتُبَ التَّرْجَمَةِ،\nوَتَغَيَّرَ نُطْقُ بَعْضِهَا مَعَ النَّسْخِ."
+        },
+        {
+          "from": 14,
+          "to": 17.08,
+          "text": "الْمِسْ رِجْلَ الْجَوْزَاءِ اللَّامِعَةَ؛"
+        },
+        {
+          "from": 17.36,
+          "to": 21.44,
+          "text": "فَفِي الْفَهَارِسِ الْحَدِيثَةِ\nبَقَايَا مِنْ هَذِهِ الرِّحْلَةِ."
+        }
+      ],
+      "approval": {
+        "by": "director",
+        "at": "2026-10-15T19:46:04.311277Z",
+        "voiceLabel": "my voice",
+        "authorization": "owner-delegated-2026-10-15-26-clips",
+        "evidence": "docs/evidence/learning-audio-20261015/review/arab-stars/arab-jawza/ar.json"
+      },
+      "provenance": {
+        "provider": "ElevenLabs",
+        "model": "eleven_v4"
+      }
+    },
+    {
+      "journey": "arab-stars",
+      "chapter": "arab-jawza",
+      "lang": "en",
+      "scriptSha256": "20814b67e4a8062c3c6517f623061c335be4c485601314ef8bef1fbf10e40e98",
+      "src": "media/journeys/learning/arab-stars/arab-jawza/en-0405554be912.m4a",
+      "sha256": "0405554be91292253459a673fa825e74a90cd050ad51e8ae38d5036eb10a03cf",
+      "bytes": 392702,
+      "durationS": 19.28,
+      "span": {
+        "startS": 0,
+        "endS": 19.28
+      },
+      "cues": [
+        {
+          "from": 0,
+          "to": 4.96,
+          "text": "In Orion we find traces of\nal-Jawza: its foot and its hand."
+        },
+        {
+          "from": 5.6,
+          "to": 9.6,
+          "text": "Rigel preserves the Arabic name\nof the foot, while Betelgeuse"
+        },
+        {
+          "from": 9.68,
+          "to": 13.4,
+          "text": "reached us through old written\ntransformations of the hand."
+        },
+        {
+          "from": 13.76,
+          "to": 17.36,
+          "text": "Touch bright Rigel and follow\na history carried through"
+        },
+        {
+          "from": 17.8,
+          "to": 19.28,
+          "text": "translation and copying."
+        }
+      ],
+      "approval": {
+        "by": "director",
+        "at": "2026-10-15T19:46:04.311277Z",
+        "voiceLabel": "my voice",
+        "authorization": "owner-delegated-2026-10-15-26-clips",
+        "evidence": "docs/evidence/learning-audio-20261015/review/arab-stars/arab-jawza/en.json"
+      },
+      "provenance": {
+        "provider": "ElevenLabs",
+        "model": "eleven_v4"
+      }
+    },
+    {
+      "journey": "moon-phases",
+      "chapter": "moon-light",
+      "lang": "ar",
+      "scriptSha256": "60c66989116f89ce301c7003937cc0b385d3370c7573184cc01223d136606c55",
+      "src": "media/journeys/learning/moon-phases/moon-light/ar-d9e4837d677c.m4a",
+      "sha256": "d9e4837d677c864a512bbda241a8bdcd915ac1c358ae7859414d54c09d466326",
+      "bytes": 437489,
+      "durationS": 21.28,
+      "span": {
+        "startS": 0,
+        "endS": 21.28
+      },
+      "cues": [
+        {
+          "from": 0,
+          "to": 3.44,
+          "text": "ضَوْءُ الْقَمَرِ ضَوْءُ شَمْسٍ مُنْعَكِسٌ."
+        },
+        {
+          "from": 4,
+          "to": 8.36,
+          "text": "خَارِجَ الْخُسُوفِ، تُضِيءُ\nالشَّمْسُ نِصْفَهُ تَقْرِيبًا."
+        },
+        {
+          "from": 8.56,
+          "to": 13.92,
+          "text": "وَمَعَ دَوَرَانِهِ نَرَى أَجْزَاءً\nمُخْتَلِفَةً مِنْ هَذَا النِّصْفِ."
+        },
+        {
+          "from": 13.96,
+          "to": 17.08,
+          "text": "حَرِّكِ الْقَمَرَ بَيْنَ التَّرْبِيعِ وَالْبَدْرِ؛"
+        },
+        {
+          "from": 17.28,
+          "to": 21.28,
+          "text": "أَطْوَارُهُ الْعَادِيَّةُ لَا\nيَصْنَعُهَا ظِلُّ الْأَرْضِ."
+        }
+      ],
+      "approval": {
+        "by": "director",
+        "at": "2026-10-15T19:46:04.311277Z",
+        "voiceLabel": "my voice",
+        "authorization": "owner-delegated-2026-10-15-26-clips",
+        "evidence": "docs/evidence/learning-audio-20261015/review/moon-phases/moon-light/ar.json"
+      },
+      "provenance": {
+        "provider": "ElevenLabs",
+        "model": "eleven_v4"
+      }
+    },
+    {
+      "journey": "moon-phases",
+      "chapter": "moon-light",
+      "lang": "en",
+      "scriptSha256": "930ee56c4c3b05ebf77327f5c88f66c924e33d4cb557a022381da670f710a6cc",
+      "src": "media/journeys/learning/moon-phases/moon-light/en-f717b3343040.m4a",
+      "sha256": "f717b33430408898ad1d2dbb83d44f47373bfe28fdfd30e562588d154cc45ee5",
+      "bytes": 350344,
+      "durationS": 17.36,
+      "span": {
+        "startS": 0,
+        "endS": 17.36
+      },
+      "cues": [
+        {
+          "from": 0,
+          "to": 2.8,
+          "text": "Moonlight is reflected sunlight."
+        },
+        {
+          "from": 3.12,
+          "to": 7.28,
+          "text": "Outside an eclipse, the Sun\nlights roughly half the Moon."
+        },
+        {
+          "from": 7.6,
+          "to": 11.12,
+          "text": "As the Moon orbits, our\nview of that half changes."
+        },
+        {
+          "from": 11.76,
+          "to": 16.24,
+          "text": "Move from quarter to full:\nordinary phases are not made by"
+        },
+        {
+          "from": 16.32,
+          "to": 17.36,
+          "text": "Earth's shadow."
+        }
+      ],
+      "approval": {
+        "by": "director",
+        "at": "2026-10-15T19:46:04.311277Z",
+        "voiceLabel": "my voice",
+        "authorization": "owner-delegated-2026-10-15-26-clips",
+        "evidence": "docs/evidence/learning-audio-20261015/review/moon-phases/moon-light/en.json"
+      },
+      "provenance": {
+        "provider": "ElevenLabs",
+        "model": "eleven_v4"
+      }
+    },
+    {
+      "journey": "moon-phases",
+      "chapter": "moon-cycle",
+      "lang": "ar",
+      "scriptSha256": "f5707206aecb446e547a1423048fb533dfa54ee7d0e7d9b7ca5ffc1d14a0227d",
+      "src": "media/journeys/learning/moon-phases/moon-cycle/ar-b5c87c409bda.m4a",
+      "sha256": "b5c87c409bda99c37e6daa8f7f8f483009edbffef530778d88ffe45e64bca8a3",
+      "bytes": 403746,
+      "durationS": 19.52,
+      "span": {
+        "startS": 0,
+        "endS": 19.52
+      },
+      "cues": [
+        {
+          "from": 0,
+          "to": 7.04,
+          "text": "مِنْ مُحَاقٍ إِلَى مُحَاقٍ، تَسْتَغْرِقُ دَوْرَةُ\nالْأَطْوَارِ نَحْوَ تِسْعَةٍ وَعِشْرِينَ يَوْمًا وَنِصْفِ"
+        },
+        {
+          "from": 7.24,
+          "to": 7.76,
+          "text": "يَوْمٍ."
+        },
+        {
+          "from": 7.88,
+          "to": 11.68,
+          "text": "يَزْدَادُ الْجُزْءُ الْمُضَاءُ\nالَّذِي نَرَاهُ ثُمَّ يَتَنَاقَصُ."
+        },
+        {
+          "from": 12,
+          "to": 18.88,
+          "text": "قَارِنِ التَّرْبِيعَيْنِ وَالْمُحَاقَ بِالشَّرِيطِ\nلِتَرَى كَيْفَ يَتَغَيَّرُ وَجْهُ الْقَمَرِ لَيْلَةً بَعْدَ"
+        },
+        {
+          "from": 19.04,
+          "to": 19.52,
+          "text": "لَيْلَةٍ."
+        }
+      ],
+      "approval": {
+        "by": "director",
+        "at": "2026-10-15T19:46:04.311277Z",
+        "voiceLabel": "my voice",
+        "authorization": "owner-delegated-2026-10-15-26-clips",
+        "evidence": "docs/evidence/learning-audio-20261015/review/moon-phases/moon-cycle/ar.json"
+      },
+      "provenance": {
+        "provider": "ElevenLabs",
+        "model": "eleven_v4"
+      }
+    },
+    {
+      "journey": "moon-phases",
+      "chapter": "moon-cycle",
+      "lang": "en",
+      "scriptSha256": "0dfb790f8e6a4321dc4a1b719e88f5ae779cff4aad02be92a1ad18b55d630de9",
+      "src": "media/journeys/learning/moon-phases/moon-cycle/en-f539c2d9c8ec.m4a",
+      "sha256": "f539c2d9c8ec1361a108a0562f93bf336d4cc6737e20cf6d511e34a0f578662c",
+      "bytes": 347300,
+      "durationS": 16.72,
+      "span": {
+        "startS": 0,
+        "endS": 16.72
+      },
+      "cues": [
+        {
+          "from": 0,
+          "to": 3.84,
+          "text": "From one new Moon to the next,\nthe phase cycle lasts about"
+        },
+        {
+          "from": 3.92,
+          "to": 6.32,
+          "text": "twenty-nine and a half days."
+        },
+        {
+          "from": 6.36,
+          "to": 9.92,
+          "text": "The visible lit portion\ngrows, then shrinks."
+        },
+        {
+          "from": 10.4,
+          "to": 13.68,
+          "text": "Compare both quarters and the\nnew Moon with the slider to see"
+        },
+        {
+          "from": 13.76,
+          "to": 16.72,
+          "text": "how the lunar face\nchanges night after night."
+        }
+      ],
+      "approval": {
+        "by": "director",
+        "at": "2026-10-15T19:46:04.311277Z",
+        "voiceLabel": "my voice",
+        "authorization": "owner-delegated-2026-10-15-26-clips",
+        "evidence": "docs/evidence/learning-audio-20261015/review/moon-phases/moon-cycle/en.json"
+      },
+      "provenance": {
+        "provider": "ElevenLabs",
+        "model": "eleven_v4"
+      }
+    },
+    {
+      "journey": "moon-phases",
+      "chapter": "moon-solar",
+      "lang": "ar",
+      "scriptSha256": "1d1e1620d28047f531aa63463aced3912b4f4368b18199f424e972e92ff2ad2b",
+      "src": "media/journeys/learning/moon-phases/moon-solar/ar-b11c85840bc2.m4a",
+      "sha256": "b11c85840bc2fb673a869807764908530e63d574d13f3f74df6091de6f4f15b5",
+      "bytes": 446595,
+      "durationS": 21.76,
+      "span": {
+        "startS": 0,
+        "endS": 21.76
+      },
+      "cues": [
+        {
+          "from": 0,
+          "to": 4.96,
+          "text": "عِنْدَ الْمُحَاقِ قَدْ يَقَعُ\nالْقَمَرُ بَيْنَ الْأَرْضِ وَالشَّمْسِ."
+        },
+        {
+          "from": 5.04,
+          "to": 9.68,
+          "text": "لَكِنَّ مَيْلَ مَدَارِهِ يَمْنَعُ\nالْكُسُوفَ كُلَّ شَهْرٍ."
+        },
+        {
+          "from": 9.72,
+          "to": 14.16,
+          "text": "حَرِّكِ الْعُقْدَةَ فِي النَّمُوذَجِ\nوَقَارِنِ الْحَالَتَيْنِ."
+        },
+        {
+          "from": 14.2,
+          "to": 16.44,
+          "text": "هُنَا نَكْتَشِفُ الْهَنْدَسَةَ؛"
+        },
+        {
+          "from": 16.72,
+          "to": 21.76,
+          "text": "أَمَّا رَصْدُ الشَّمْسِ فَيَحْتَاجُ\nحِمَايَةً شَمْسِيَّةً مُعْتَمَدَةً."
+        }
+      ],
+      "approval": {
+        "by": "director",
+        "at": "2026-10-15T19:46:04.311277Z",
+        "voiceLabel": "my voice",
+        "authorization": "owner-delegated-2026-10-15-26-clips",
+        "evidence": "docs/evidence/learning-audio-20261015/review/moon-phases/moon-solar/ar.json"
+      },
+      "provenance": {
+        "provider": "ElevenLabs",
+        "model": "eleven_v4"
+      }
+    },
+    {
+      "journey": "moon-phases",
+      "chapter": "moon-solar",
+      "lang": "en",
+      "scriptSha256": "a20aabcb57bd5a57dbd1e7f2bc66c19af97455feae2a91901fae409538d931a8",
+      "src": "media/journeys/learning/moon-phases/moon-solar/en-e01e63f03daf.m4a",
+      "sha256": "e01e63f03daf8fd44dc88b350eb0955520808e35dbeff77174d820e03e7a65b9",
+      "bytes": 368802,
+      "durationS": 18.16,
+      "span": {
+        "startS": 0,
+        "endS": 18.16
+      },
+      "cues": [
+        {
+          "from": 0,
+          "to": 4.56,
+          "text": "At new Moon, the Moon can pass\nbetween Earth and the Sun."
+        },
+        {
+          "from": 4.68,
+          "to": 8.24,
+          "text": "Its tilted orbit prevents\nan eclipse every month."
+        },
+        {
+          "from": 8.56,
+          "to": 12.2,
+          "text": "Move the node in the model and\ncompare the two arrangements."
+        },
+        {
+          "from": 12.48,
+          "to": 16.8,
+          "text": "This explains the geometry; real\nsolar viewing needs approved"
+        },
+        {
+          "from": 16.88,
+          "to": 18.16,
+          "text": "solar protection."
+        }
+      ],
+      "approval": {
+        "by": "director",
+        "at": "2026-10-15T19:46:04.311277Z",
+        "voiceLabel": "my voice",
+        "authorization": "owner-delegated-2026-10-15-26-clips",
+        "evidence": "docs/evidence/learning-audio-20261015/review/moon-phases/moon-solar/en.json"
+      },
+      "provenance": {
+        "provider": "ElevenLabs",
+        "model": "eleven_v4"
+      }
+    },
+    {
+      "journey": "moon-phases",
+      "chapter": "moon-lunar",
+      "lang": "ar",
+      "scriptSha256": "5ba1670ad0bc207db5dd160936988fd813bc84fe37c653f249d6cc99cd6521af",
+      "src": "media/journeys/learning/moon-phases/moon-lunar/ar-dec03cd414b5.m4a",
+      "sha256": "dec03cd414b506e6f4ead924372f3fdbf729f18facd3977067d4c76f299e1b67",
+      "bytes": 356099,
+      "durationS": 18.08,
+      "span": {
+        "startS": 0,
+        "endS": 18.08
+      },
+      "cues": [
+        {
+          "from": 0,
+          "to": 5.76,
+          "text": "عِنْدَ الْبَدْرِ قَدْ يَعْبُرُ الْقَمَرُ\nظِلَّ الْأَرْضِ فَيَحْدُثُ الْخُسُوفُ."
+        },
+        {
+          "from": 6.08,
+          "to": 10.12,
+          "text": "وَإِنْ مَرَّ بَعِيدًا عَنِ\nالْعُقْدَةِ تَجَاوَزَ الظِّلَّ."
+        },
+        {
+          "from": 10.48,
+          "to": 13.96,
+          "text": "حَاذِ الْبَدْرَ فِي النَّمُوذَجِ، ثُمَّ أَبْعِدْهُ؛"
+        },
+        {
+          "from": 14.24,
+          "to": 18.08,
+          "text": "سَتَرَى لِمَاذَا لَا يَصِيرُ كُلُّ بَدْرٍ خُسُوفًا."
+        }
+      ],
+      "approval": {
+        "by": "director",
+        "at": "2026-10-15T19:46:04.311277Z",
+        "voiceLabel": "my voice",
+        "authorization": "owner-delegated-2026-10-15-26-clips",
+        "evidence": "docs/evidence/learning-audio-20261015/review/moon-phases/moon-lunar/ar.json"
+      },
+      "provenance": {
+        "provider": "ElevenLabs",
+        "model": "eleven_v4"
+      }
+    },
+    {
+      "journey": "moon-phases",
+      "chapter": "moon-lunar",
+      "lang": "en",
+      "scriptSha256": "1cbe09e6d7b7d3d8876ed8251cafc76af3f5e9545066d879db28469c4cf5c416",
+      "src": "media/journeys/learning/moon-phases/moon-lunar/en-64da7de3d778.m4a",
+      "sha256": "64da7de3d7784a8743b2a0d2b6e05e802e697d46fc294affe868bd287f5dc52e",
+      "bytes": 330009,
+      "durationS": 16.48,
+      "span": {
+        "startS": 0,
+        "endS": 16.48
+      },
+      "cues": [
+        {
+          "from": 0,
+          "to": 4,
+          "text": "Near full Moon, the Moon can\ncross Earth's shadow and become"
+        },
+        {
+          "from": 4.08,
+          "to": 8.48,
+          "text": "eclipsed. Far from a node,\nit misses the shadow."
+        },
+        {
+          "from": 8.8,
+          "to": 12.08,
+          "text": "Align the full Moon in the\nmodel, then move it away."
+        },
+        {
+          "from": 12.72,
+          "to": 16.48,
+          "text": "Now you can see why every\nfull Moon is not an eclipse."
+        }
+      ],
+      "approval": {
+        "by": "director",
+        "at": "2026-10-15T19:46:04.311277Z",
+        "voiceLabel": "my voice",
+        "authorization": "owner-delegated-2026-10-15-26-clips",
+        "evidence": "docs/evidence/learning-audio-20261015/review/moon-phases/moon-lunar/en.json"
+      },
+      "provenance": {
+        "provider": "ElevenLabs",
+        "model": "eleven_v4"
+      }
+    },
+    {
+      "journey": "meteor-eclipse",
+      "chapter": "meteor-radiant",
+      "lang": "ar",
+      "scriptSha256": "b342c4b3542ce356428523dd068618370b67387010517d4d09fbd6a1674cb455",
+      "src": "media/journeys/learning/meteor-eclipse/meteor-radiant/ar-acd578b145ae.m4a",
+      "sha256": "acd578b145aefc643d23529066dfecf118640d60b859b56e0575a4bec6f93173",
+      "bytes": 417047,
+      "durationS": 20.4,
+      "span": {
+        "startS": 0,
+        "endS": 20.4
+      },
+      "cues": [
+        {
+          "from": 0,
+          "to": 6.16,
+          "text": "الشِّهَابُ وَمْضَةٌ مِنْ مَادَّةٍ صَغِيرَةٍ\nتَدْخُلُ غِلَافَ الْأَرْضِ الْجَوِّيَّ،"
+        },
+        {
+          "from": 6.24,
+          "to": 7.68,
+          "text": "وَلَيْسَ نَجْمًا يَسْقُطُ."
+        },
+        {
+          "from": 8.08,
+          "to": 13.2,
+          "text": "فِي الزَّخَّةِ تَبْدُو الْمَسَارَاتُ\nكَأَنَّهَا تَخْرُجُ مِنْ نُقْطَةٍ وَاحِدَةٍ."
+        },
+        {
+          "from": 13.68,
+          "to": 15.64,
+          "text": "تَتَبَّعْهَا إِلَى الْخَلْفِ؛"
+        },
+        {
+          "from": 15.92,
+          "to": 20.4,
+          "text": "إِنَّهُ أَثَرُ الْمَنْظُورِ لِمَسَارَاتٍ\nمُتَقَارِبَةِ الِاتِّجَاهِ."
+        }
+      ],
+      "approval": {
+        "by": "director",
+        "at": "2026-10-15T19:46:04.311277Z",
+        "voiceLabel": "my voice",
+        "authorization": "owner-delegated-2026-10-15-26-clips",
+        "evidence": "docs/evidence/learning-audio-20261015/review/meteor-eclipse/meteor-radiant/ar.json"
+      },
+      "provenance": {
+        "provider": "ElevenLabs",
+        "model": "eleven_v4"
+      }
+    },
+    {
+      "journey": "meteor-eclipse",
+      "chapter": "meteor-radiant",
+      "lang": "en",
+      "scriptSha256": "246408226b7e295a6c20cffbbcf84ae88e47be5d33bc97644137dbf96baf4076",
+      "src": "media/journeys/learning/meteor-eclipse/meteor-radiant/en-2a1953376f63.m4a",
+      "sha256": "2a1953376f637d0cd127ef879e309039cfcccd1755b1df5924746f183218a70e",
+      "bytes": 355558,
+      "durationS": 17.36,
+      "span": {
+        "startS": 0,
+        "endS": 17.36
+      },
+      "cues": [
+        {
+          "from": 0,
+          "to": 3.76,
+          "text": "A meteor is a flash from small\nmaterial entering Earth's"
+        },
+        {
+          "from": 3.84,
+          "to": 6.72,
+          "text": "atmosphere, rather\nthan a falling star."
+        },
+        {
+          "from": 7.04,
+          "to": 11.08,
+          "text": "During a shower, the trails\nappear to spread from one point."
+        },
+        {
+          "from": 11.36,
+          "to": 15.52,
+          "text": "Follow them backwards: perspective\nmakes nearly parallel paths"
+        },
+        {
+          "from": 15.56,
+          "to": 17.36,
+          "text": "seem to meet at the radiant."
+        }
+      ],
+      "approval": {
+        "by": "director",
+        "at": "2026-10-15T19:46:04.311277Z",
+        "voiceLabel": "my voice",
+        "authorization": "owner-delegated-2026-10-15-26-clips",
+        "evidence": "docs/evidence/learning-audio-20261015/review/meteor-eclipse/meteor-radiant/en.json"
+      },
+      "provenance": {
+        "provider": "ElevenLabs",
+        "model": "eleven_v4"
+      }
+    },
+    {
+      "journey": "meteor-eclipse",
+      "chapter": "meteor-window",
+      "lang": "ar",
+      "scriptSha256": "dba23ac0e05d380cbead31583054f1eb5b311961c52f35ad41fe2f3ff6445907",
+      "src": "media/journeys/learning/meteor-eclipse/meteor-window/ar-52969c19c71f.m4a",
+      "sha256": "52969c19c71fbbe92e4f6c1b2a60924cb7c3565c2770519f3d5cbb7dd4274da8",
+      "bytes": 401461,
+      "durationS": 20,
+      "span": {
+        "startS": 0,
+        "endS": 20
+      },
+      "cues": [
+        {
+          "from": 0,
+          "to": 6.16,
+          "text": "لِرَصْدِ الشُّهُبِ، اخْتَرْ سَمَاءً\nمُظْلِمَةً وَأُفُقًا مَكْشُوفًا،"
+        },
+        {
+          "from": 6.24,
+          "to": 9.84,
+          "text": "وَاتْرُكْ لِعَيْنَيْكَ وَقْتًا لِلتَّأَقْلُمِ."
+        },
+        {
+          "from": 9.867,
+          "to": 12.667,
+          "text": "قَارِنْ وَقْتَيْنِ فِي نَافِذَةِ الرَّصْدِ؛"
+        },
+        {
+          "from": 12.88,
+          "to": 20,
+          "text": "فَارْتِفَاعُ نُقْطَةِ انْطِلَاقِ الشُّهُبِ وَضَوْءُ\nالْقَمَرِ يُحَدِّدَانِ أَفْضَلَ سَاعَاتِ الْمُشَاهَدَةِ."
+        }
+      ],
+      "approval": {
+        "by": "director",
+        "at": "2026-10-15T19:46:04.311277Z",
+        "voiceLabel": "my voice",
+        "authorization": "owner-delegated-2026-10-15-26-clips",
+        "evidence": "docs/evidence/learning-audio-20261015/review/meteor-eclipse/meteor-window/ar.json"
+      },
+      "provenance": {
+        "provider": "ElevenLabs",
+        "model": "eleven_v4"
+      }
+    },
+    {
+      "journey": "meteor-eclipse",
+      "chapter": "meteor-window",
+      "lang": "en",
+      "scriptSha256": "36f37a85ad0aaf15ca535bcb5a9bdb2ea442af8d08712dab0ee6d5ff4c2bbd58",
+      "src": "media/journeys/learning/meteor-eclipse/meteor-window/en-64af687e8a39.m4a",
+      "sha256": "64af687e8a398e3dc8bf57bcb68a2fa362e649603324f56ab86772c74aa16b2b",
+      "bytes": 296963,
+      "durationS": 14.64,
+      "span": {
+        "startS": 0,
+        "endS": 14.64
+      },
+      "cues": [
+        {
+          "from": 0,
+          "to": 5.2,
+          "text": "For meteors, choose a dark sky\nand open view, and let your eyes"
+        },
+        {
+          "from": 5.52,
+          "to": 10.08,
+          "text": "adjust. Compare two times in the\nobserving window: the height of"
+        },
+        {
+          "from": 10.16,
+          "to": 14.64,
+          "text": "the radiant point and moonlight\nshape your best hours to watch."
+        }
+      ],
+      "approval": {
+        "by": "director",
+        "at": "2026-10-15T19:46:04.311277Z",
+        "voiceLabel": "my voice",
+        "authorization": "owner-delegated-2026-10-15-26-clips",
+        "evidence": "docs/evidence/learning-audio-20261015/review/meteor-eclipse/meteor-window/en.json"
+      },
+      "provenance": {
+        "provider": "ElevenLabs",
+        "model": "eleven_v4"
+      }
+    },
+    {
+      "journey": "meteor-eclipse",
+      "chapter": "meteor-solar",
+      "lang": "ar",
+      "scriptSha256": "59e2a2d2a91fbb0a4bb2b518d869619fc6dd7df1d5be0f605b687337a3f83291",
+      "src": "media/journeys/learning/meteor-eclipse/meteor-solar/ar-22c0274c2eb8.m4a",
+      "sha256": "22c0274c2eb85627fd1fcd6fe0df94632f96a4ae861932addcfe2370200f881f",
+      "bytes": 542891,
+      "durationS": 25.84,
+      "span": {
+        "startS": 0,
+        "endS": 25.84
+      },
+      "cues": [
+        {
+          "from": 0,
+          "to": 5.28,
+          "text": "الْكُسُوفُ اصْطِفَافٌ قُرْبَ\nالْمُحَاقِ وَإِحْدَى الْعُقْدَتَيْنِ."
+        },
+        {
+          "from": 5.32,
+          "to": 9.76,
+          "text": "حَرِّكِ الْعُقْدَةَ لِتُقَارِنَ\nالتَّوَافُقَ وَالِابْتِعَادَ."
+        },
+        {
+          "from": 9.787,
+          "to": 16.64,
+          "text": "لِلْمُشَاهَدَةِ الْمُبَاشِرَةِ اسْتَخْدِمْ نَظَّارَاتِ\nكُسُوفٍ مُطَابِقَةً لِلْمِعْيَارِ الْمُعْتَمَدِ."
+        },
+        {
+          "from": 16.68,
+          "to": 21.2,
+          "text": "لَا تَنْظُرْ عَبْرَ مِنْظَارٍ أَوْ\nتِلِسْكُوبٍ وَأَنْتَ تَرْتَدِيهَا؛"
+        },
+        {
+          "from": 21.28,
+          "to": 25.84,
+          "text": "فَالْأَدَوَاتُ الْبَصَرِيَّةُ تَحْتَاجُ\nمُرَشِّحَاتِهَا الْمُتَخَصِّصَةَ."
+        }
+      ],
+      "approval": {
+        "by": "director",
+        "at": "2026-10-15T19:46:04.311277Z",
+        "voiceLabel": "my voice",
+        "authorization": "owner-delegated-2026-10-15-26-clips",
+        "evidence": "docs/evidence/learning-audio-20261015/review/meteor-eclipse/meteor-solar/ar.json"
+      },
+      "provenance": {
+        "provider": "ElevenLabs",
+        "model": "eleven_v4"
+      }
+    },
+    {
+      "journey": "meteor-eclipse",
+      "chapter": "meteor-solar",
+      "lang": "en",
+      "scriptSha256": "5875d04eeb8ecc81fa51185b50eca8ef5fa1d55871f869bb8100c865e2418a35",
+      "src": "media/journeys/learning/meteor-eclipse/meteor-solar/en-171d8d8dd37d.m4a",
+      "sha256": "171d8d8dd37dc5d20712e2eb0f66565d282c8daed0a21c7f45adc6aa9e17e7cc",
+      "bytes": 485197,
+      "durationS": 23.76,
+      "span": {
+        "startS": 0,
+        "endS": 23.76
+      },
+      "cues": [
+        {
+          "from": 0,
+          "to": 4.48,
+          "text": "A solar eclipse needs alignment\nnear new Moon and a lunar node."
+        },
+        {
+          "from": 5.04,
+          "to": 8.08,
+          "text": "Move the node to compare\na hit with a miss."
+        },
+        {
+          "from": 8.4,
+          "to": 15.52,
+          "text": "For direct viewing, use eclipse\nglasses that meet ISO 12312-2."
+        },
+        {
+          "from": 15.84,
+          "to": 19.84,
+          "text": "Never look through binoculars or\na telescope while wearing them:"
+        },
+        {
+          "from": 19.96,
+          "to": 23.76,
+          "text": "optical instruments need their\nown specialised solar filters."
+        }
+      ],
+      "approval": {
+        "by": "director",
+        "at": "2026-10-15T19:46:04.311277Z",
+        "voiceLabel": "my voice",
+        "authorization": "owner-delegated-2026-10-15-26-clips",
+        "evidence": "docs/evidence/learning-audio-20261015/review/meteor-eclipse/meteor-solar/en.json"
+      },
+      "provenance": {
+        "provider": "ElevenLabs",
+        "model": "eleven_v4"
+      }
+    },
+    {
+      "journey": "meteor-eclipse",
+      "chapter": "meteor-lunar",
+      "lang": "ar",
+      "scriptSha256": "87787ff7b1f967dbfb9752b9203ddbd1f70ca8ab8cfd9b5b9c09ffc861401151",
+      "src": "media/journeys/learning/meteor-eclipse/meteor-lunar/ar-0a6000678444.m4a",
+      "sha256": "0a600067844436feec0a92f766d376f1a7239c2ce3a2d9ccdbd3ca9309612016",
+      "bytes": 427639,
+      "durationS": 21.04,
+      "span": {
+        "startS": 0,
+        "endS": 21.04
+      },
+      "cues": [
+        {
+          "from": 0,
+          "to": 4.48,
+          "text": "فِي الْخُسُوفِ يَدْخُلُ الْقَمَرُ\nظِلَّ الْأَرْضِ قُرْبَ الْبَدْرِ."
+        },
+        {
+          "from": 4.96,
+          "to": 11.2,
+          "text": "قَارِنِ الْمُحَاذَاةَ وَالِابْتِعَادَ، ثُمَّ\nتَفَقَّدْ حِسَابَ الظُّهُورِ مِنْ مَوْقِعِكَ."
+        },
+        {
+          "from": 11.24,
+          "to": 15.12,
+          "text": "قَدْ يَقَعُ الْحَدَثُ وَالْقَمَرُ تَحْتَ أُفُقِكَ."
+        },
+        {
+          "from": 15.2,
+          "to": 21.04,
+          "text": "رَصْدُ الْخُسُوفِ بِالْعَيْنِ الْمُجَرَّدَةِ\nلَا يَحْتَاجُ نَظَّارَاتِ كُسُوفٍ شَمْسِيٍّ."
+        }
+      ],
+      "approval": {
+        "by": "director",
+        "at": "2026-10-15T19:46:04.311277Z",
+        "voiceLabel": "my voice",
+        "authorization": "owner-delegated-2026-10-15-26-clips",
+        "evidence": "docs/evidence/learning-audio-20261015/review/meteor-eclipse/meteor-lunar/ar.json"
+      },
+      "provenance": {
+        "provider": "ElevenLabs",
+        "model": "eleven_v4"
+      }
+    },
+    {
+      "journey": "meteor-eclipse",
+      "chapter": "meteor-lunar",
+      "lang": "en",
+      "scriptSha256": "035d43300b82ab03a37ca7a366772317106011cccc94b75ce0cc8392176ecfb2",
+      "src": "media/journeys/learning/meteor-eclipse/meteor-lunar/en-47f7d8a45459.m4a",
+      "sha256": "47f7d8a45459067528a09c89007ffcee044e496b919c8d6ab70239373f4bc14f",
+      "bytes": 417581,
+      "durationS": 20.4,
+      "span": {
+        "startS": 0,
+        "endS": 20.4
+      },
+      "cues": [
+        {
+          "from": 0,
+          "to": 4.4,
+          "text": "During a lunar eclipse, the Moon\nenters Earth's shadow near full"
+        },
+        {
+          "from": 4.48,
+          "to": 9.12,
+          "text": "Moon. Compare alignment with a\nmiss, then check the calculated"
+        },
+        {
+          "from": 9.2,
+          "to": 13.44,
+          "text": "view from your location. An eclipse\nmay happen while the Moon is"
+        },
+        {
+          "from": 13.52,
+          "to": 18.08,
+          "text": "below your horizon. Naked-eye\nlunar eclipse viewing does not"
+        },
+        {
+          "from": 18.36,
+          "to": 20.4,
+          "text": "require solar eclipse glasses."
+        }
+      ],
+      "approval": {
+        "by": "director",
+        "at": "2026-10-15T19:46:04.311277Z",
+        "voiceLabel": "my voice",
+        "authorization": "owner-delegated-2026-10-15-26-clips",
+        "evidence": "docs/evidence/learning-audio-20261015/review/meteor-eclipse/meteor-lunar/en.json"
+      },
+      "provenance": {
+        "provider": "ElevenLabs",
+        "model": "eleven_v4"
+      }
+    }
+  ]
+}

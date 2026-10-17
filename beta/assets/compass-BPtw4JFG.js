@@ -1,0 +1,1 @@
+const N=["N","NNE","NE","ENE","E","ESE","SE","SSE","S","SSW","SW","WSW","W","WNW","NW","NNW"],W=["N","NE","E","SE","S","SW","W","NW"],E=S=>(S%360+360)%360;function n(S){return N[Math.round(E(S)/22.5)%16]}function o(S){return W[Math.round(E(S)/45)%8]}export{o as a,n as c};
