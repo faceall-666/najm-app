@@ -1,0 +1,24 @@
+Scientific object imagery — reviewed15 October2026
+
+Per-file source, direct download, dimensions, bytes andSHA256: provenance.json.
+Each source's exact credit is displayed by ObjectPortrait and repeated in provenance.json.
+No image asserts a current docking state, a live observation or a3D model. Antares/Betelgeuse are
+scientific reconstructed/non-visible-wavelength observations in representative colours. Vesta is a mosaic.
+Pluto uses the publisher’s full-frame2048px delivery for a maximum560CSSpx portrait (1680physicalpx at3x),
+not the54MB original. This is phone display sampling, not a Mac disk compromise. All five files are bundled
+in the native application; browser previews fetch/cache these detail portraits only when needed.
+
+ESO files: Creative Commons Attribution4.0, https://creativecommons.org/licenses/by/4.0/
+Full credits: ALMA (ESO/NAOJ/NRAO)/E. O’Gorman/P. Kervella; ESO/K. Ohnaka.
+Policy: https://www.eso.org/public/outreach/copyright/
+
+Ceres/Vesta: NASA/JPL-Caltech/UCLA/MPS/DLR/IDA.
+JPL permits use with credit subject to the individual source’s exceptions; no endorsement is implied.
+https://www.jpl.nasa.gov/jpl-image-use-policy/
+Pluto: NASA/Johns Hopkins University Applied Physics Laboratory/Southwest Research Institute/Alex Parker.
+NASA informational-media guidance: https://www.nasa.gov/nasa-brand-center/images-and-media/
+Do not relabel all NASA-partner images as CC0 or NASA-only.
+
+Sirius reuses ../journeys/civil/sirius-hubble.png, with its existing source/provenance and complete credit
+in that folder and src/journey/civil/approvedPlans.ts. The original is369×403; the portrait is capped184CSSpx.
+The telescope diffraction is identified explicitly, not presented as resolved stellar surface detail.

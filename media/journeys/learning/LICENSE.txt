@@ -1,0 +1,6 @@
+Najm learning narration —15October2026
+Original Najm Arabic/English texts, exact script SHA-256 in narration.json.
+26 recordings generated on the owner-authorized Space Cast ElevenLabs account with the owner's approved cloned voice "my voice", model eleven_v4. Owner explicitly authorized generation, delegated review, local binding and native packages within a separate USD3 ceiling.
+Original MP3 output is retained in the same-Mac production evidence; application files are AAC-LC160kbps/44.1kHz M4A encoded without added music, recitation or effects. Full original/encoded hashes and generation identifiers are in provenance.json.
+Text/word-timing review uses actual connected-file Eleven Scribe output. Cue timestamps use measured word bounds;25last-cue ends are reduced80ms to match measured media duration. No interior timing is interpolated. This technical/editorial acceptance is not personal hearing by the owner or proof of cloned-voice likeness/Arabic vowel quality.
+No third-party recitation or music is included in this batch. Provider-account generation authority and existing subscription/commercial terms remain in the release records; this file grants no separate provider licence.

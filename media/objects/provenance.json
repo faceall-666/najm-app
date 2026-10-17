@@ -1,0 +1,60 @@
+{
+  "reviewed": "2026-10-15",
+  "assets": [
+    {
+      "file": "ceres-dawn-2015.jpg",
+      "source": "https://www.jpl.nasa.gov/images/pia21079-ceres-in-color/",
+      "download": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/jpegPIA21079.jpg",
+      "credit": "NASA/JPL-Caltech/UCLA/MPS/DLR/IDA",
+      "changes": "Unchanged publisher JPEG",
+      "width": 1024,
+      "height": 1024,
+      "bytes": 58425,
+      "sha256": "08e2c18a0d5dd915ea8216b65c36cc59fdf1167475a869aa20d0647ccf6e7b61"
+    },
+    {
+      "file": "vesta-dawn-2012.jpg",
+      "source": "https://www.jpl.nasa.gov/images/pia15678-full-view-of-vesta/",
+      "download": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/jpegPIA15678.jpg",
+      "credit": "NASA/JPL-Caltech/UCLA/MPS/DLR/IDA",
+      "changes": "Unchanged publisher JPEG",
+      "width": 715,
+      "height": 694,
+      "bytes": 44461,
+      "sha256": "c538d1e6894d1a1dfadace21709842205c71ce0a778b00e112fa6fa731b3cd2d"
+    },
+    {
+      "file": "pluto-newhorizons-2015.png",
+      "source": "https://science.nasa.gov/resource/true-colors-of-pluto/",
+      "download": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar/2023/09/b/BIG_P_COLOR_2_TRUE_COLOR1.png?fit=clip&h=2048&w=2048",
+      "credit": "NASA/Johns Hopkins University Applied Physics Laboratory/Southwest Research Institute/Alex Parker",
+      "changes": "NASA-generated2048px full-frame delivery; no local edits/crop",
+      "width": 2048,
+      "height": 2048,
+      "bytes": 5931405,
+      "sha256": "3508a74413aacf5eae1796f497dda174365506014560973eb4cdd2501329a6de"
+    },
+    {
+      "file": "betelgeuse-alma-2017.jpg",
+      "source": "https://www.eso.org/public/images/potw1726a/",
+      "download": "https://cdn.eso.org/images/large/potw1726a.jpg",
+      "credit": "ALMA (ESO/NAOJ/NRAO)/E. O’Gorman/P. Kervella",
+      "changes": "Unchanged full4000px publisher JPEG; representative colour",
+      "width": 4000,
+      "height": 4000,
+      "bytes": 760870,
+      "sha256": "3f75e8b1df70dca7f0e828e8fd640880a7bfcbdef0945304792bace2eb243bbe"
+    },
+    {
+      "file": "antares-vlti-2017.jpg",
+      "source": "https://www.eso.org/public/images/eso1726a/",
+      "download": "https://cdn.eso.org/images/large/eso1726a.jpg",
+      "credit": "ESO/K. Ohnaka",
+      "changes": "Unchanged600px publisher JPEG; infrared reconstruction",
+      "width": 600,
+      "height": 600,
+      "bytes": 40015,
+      "sha256": "2e70891a6b63d48f0c5851b5540fde577fe64ae0787758a3c93dcc52838a6c81"
+    }
+  ]
+}

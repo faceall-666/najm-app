@@ -1,0 +1,4 @@
+Najm representative journey artwork, commissioned by the owner on17 October2026.
+Created with the Codex built-in image_gen tool. No third-party photograph or document is reproduced by these seven images.
+These are AI-generated decorative illustrations, not actual astronomical observations, an exact phase sequence, an authentic archaeological artifact, a translation, or Quran text.
+Source prompts, original PNGs, technical processing and SHA256 provenance are preserved in the private source repository at data-src/brand/journeys/covers-20261017.
