@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "revision": 0,
+  "providers": {
+    "ga4": { "enabled": false, "id": "" },
+    "meta": { "enabled": false, "id": "" },
+    "tiktok": { "enabled": false, "id": "" },
+    "snap": { "enabled": false, "id": "" },
+    "x": { "enabled": false, "id": "", "events": {} }
+  },
+  "telemetry": { "enabled": false, "endpoint": "" }
+}
