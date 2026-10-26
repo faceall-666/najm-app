@@ -19,3 +19,10 @@ They remain under Free Art License1.3. No anchor, crop or silhouette was moved; 
 at runtime. Andromeda and Indus retain the existing fully clothed derived outlines. The All atlas stays outline art.
 Reproduce these copies with scripts/build_art.py shaded. The existing engraved sheets remain for legacy/reference
 and outline support; regenerating those does not overwrite shaded/.
+
+
+26 October 2026 — independent access to the approved silver artwork:
+https://najem.space0cast.com/art/silver-20261024/
+85 exact selected RGBA source drawings and 85 registered app copies are available with attribution,
+modification notices and SHA-256 checksums, under Free Art License 1.3.
+Public mirror: https://github.com/faceall-666/najm-app/tree/main/art/silver-20261024

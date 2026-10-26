@@ -1,0 +1,18 @@
+NAJM SKY — DETAILED SILVER CONSTELLATION DRAWINGS — 24 OCTOBER 2026
+
+Original artwork: Johan Meuris and the Stellarium team.
+Initial works: https://github.com/stellarium/stellarium/tree/master/skycultures/modern
+
+Subsequent work: Luna Sky LLC / Najm Sky, 24 October 2026.
+85 detailed silver drawings were redrawn with OpenAI image generation, using the licensed reference poses.
+Registered copies convert colour and alpha to the app's light-coverage images and fit the inherited frame.
+These are decorative constellation illustrations; astronomical star anchors are separate data and unchanged.
+
+Licence: Free Art License 1.3, https://artlibre.org/licence/lal/en/
+You may copy, redistribute and modify these drawings under that licence, including for commercial purposes.
+Keep author attribution, identify modifications and retain the licence and access to the originals.
+
+source-drawings/ contains the exact 85 selected production RGBA PNG drawings, without rejected alternatives.
+registered/ contains the exact 85 registered 1024px images distributed in Najm Sky.
+SHA256SUMS.txt lists hashes for both sets. Prompts, private application code, keys and account data are excluded.
+This standalone artwork package can be used independently of the Najm application. No additional app EULA or DRM restriction is imposed on these drawings.
